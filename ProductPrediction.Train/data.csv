@@ -1,0 +1,3552 @@
+uid,date,item
+1,24/06/2025,whole milk
+1,31/07/2025,whole milk
+1,08/08/2025,whole milk
+1,17/09/2025,whole milk
+1,17/10/2025,whole milk
+1,07/01/2025,coffee
+1,24/01/2025,coffee
+1,28/02/2025,coffee
+1,10/04/2025,coffee
+1,14/04/2025,coffee
+1,21/06/2025,detergent
+1,28/07/2025,detergent
+1,26/08/2025,detergent
+1,12/09/2025,detergent
+1,13/10/2025,detergent
+1,25/01/2025,beans
+1,07/02/2025,beans
+1,09/03/2025,beans
+1,02/04/2025,beans
+1,22/04/2025,beans
+1,04/05/2025,beans
+1,03/01/2025,sugar
+1,30/01/2025,sugar
+1,08/02/2025,sugar
+1,05/03/2025,sugar
+1,30/03/2025,sugar
+1,10/05/2025,sugar
+1,15/06/2025,rice
+1,22/07/2025,rice
+1,01/08/2025,rice
+1,28/08/2025,rice
+1,05/09/2025,rice
+2,28/01/2025,coffee
+2,14/02/2025,coffee
+2,23/02/2025,coffee
+2,22/03/2025,coffee
+2,11/04/2025,coffee
+2,13/05/2025,coffee
+2,12/02/2025,cheese
+2,09/03/2025,cheese
+2,25/03/2025,cheese
+2,09/05/2025,cheese
+2,29/05/2025,cheese
+2,12/07/2025,cheese
+2,24/05/2025,beans
+2,11/06/2025,beans
+2,24/06/2025,beans
+2,26/07/2025,beans
+2,22/08/2025,beans
+2,11/06/2025,pasta
+2,17/06/2025,pasta
+2,04/07/2025,pasta
+2,09/07/2025,pasta
+2,01/08/2025,pasta
+2,07/01/2025,sausage
+2,15/02/2025,sausage
+2,10/03/2025,sausage
+2,26/03/2025,sausage
+2,09/05/2025,sausage
+2,12/06/2025,sausage
+2,09/02/2025,whole milk
+2,20/02/2025,whole milk
+2,10/03/2025,whole milk
+2,17/04/2025,whole milk
+2,24/05/2025,whole milk
+2,12/06/2025,whole milk
+2,13/05/2025,salt
+2,08/06/2025,salt
+2,25/06/2025,salt
+2,06/07/2025,salt
+2,10/08/2025,salt
+2,13/09/2025,salt
+3,13/04/2025,beans
+3,24/05/2025,beans
+3,25/06/2025,beans
+3,31/07/2025,beans
+3,19/08/2025,beans
+3,24/06/2025,rice
+3,04/07/2025,rice
+3,10/08/2025,rice
+3,30/08/2025,rice
+3,13/10/2025,rice
+3,14/03/2025,cookies
+3,27/03/2025,cookies
+3,28/04/2025,cookies
+3,01/05/2025,cookies
+3,20/05/2025,cookies
+3,04/05/2025,cooking oil
+3,16/06/2025,cooking oil
+3,08/07/2025,cooking oil
+3,20/08/2025,cooking oil
+3,24/09/2025,cooking oil
+3,12/02/2025,salt
+3,25/02/2025,salt
+3,03/04/2025,salt
+3,09/05/2025,salt
+3,12/05/2025,salt
+3,01/04/2025,shampoo
+3,11/04/2025,shampoo
+3,07/05/2025,shampoo
+3,29/05/2025,shampoo
+3,16/06/2025,shampoo
+3,22/06/2025,shampoo
+4,16/06/2025,rice
+4,24/07/2025,rice
+4,06/08/2025,rice
+4,25/08/2025,rice
+4,30/09/2025,rice
+4,18/02/2025,coffee
+4,05/03/2025,coffee
+4,27/03/2025,coffee
+4,24/04/2025,coffee
+4,08/06/2025,coffee
+4,22/07/2025,coffee
+4,15/05/2025,bread
+4,25/05/2025,bread
+4,12/06/2025,bread
+4,29/06/2025,bread
+4,06/07/2025,bread
+4,30/07/2025,bread
+4,08/05/2025,sausage
+4,11/05/2025,sausage
+4,18/05/2025,sausage
+4,30/06/2025,sausage
+4,06/07/2025,sausage
+4,28/01/2025,eggs
+4,21/02/2025,eggs
+4,28/02/2025,eggs
+4,04/04/2025,eggs
+4,22/04/2025,eggs
+4,18/02/2025,pasta
+4,01/03/2025,pasta
+4,09/04/2025,pasta
+4,18/05/2025,pasta
+4,20/06/2025,pasta
+4,08/07/2025,pasta
+5,28/04/2025,shampoo
+5,04/05/2025,shampoo
+5,17/06/2025,shampoo
+5,31/07/2025,shampoo
+5,09/08/2025,shampoo
+5,15/08/2025,shampoo
+5,08/01/2025,sausage
+5,23/01/2025,sausage
+5,07/02/2025,sausage
+5,16/03/2025,sausage
+5,16/04/2025,sausage
+5,27/04/2025,sausage
+5,15/03/2025,cooking oil
+5,02/04/2025,cooking oil
+5,09/04/2025,cooking oil
+5,10/05/2025,cooking oil
+5,17/06/2025,cooking oil
+5,18/06/2025,cookies
+5,21/06/2025,cookies
+5,29/06/2025,cookies
+5,17/07/2025,cookies
+5,30/07/2025,cookies
+5,07/04/2025,pasta
+5,05/05/2025,pasta
+5,11/05/2025,pasta
+5,24/05/2025,pasta
+5,20/06/2025,pasta
+5,23/06/2025,pasta
+5,10/04/2025,toilet paper
+5,10/05/2025,toilet paper
+5,17/06/2025,toilet paper
+5,01/08/2025,toilet paper
+5,04/09/2025,toilet paper
+5,16/09/2025,toilet paper
+5,02/02/2025,coffee
+5,14/03/2025,coffee
+5,20/04/2025,coffee
+5,26/04/2025,coffee
+5,19/05/2025,coffee
+5,25/05/2025,coffee
+6,28/06/2025,toilet paper
+6,16/07/2025,toilet paper
+6,13/08/2025,toilet paper
+6,23/08/2025,toilet paper
+6,01/10/2025,toilet paper
+6,03/05/2025,whole milk
+6,01/06/2025,whole milk
+6,16/07/2025,whole milk
+6,25/08/2025,whole milk
+6,03/10/2025,whole milk
+6,07/03/2025,eggs
+6,21/04/2025,eggs
+6,14/05/2025,eggs
+6,01/06/2025,eggs
+6,20/06/2025,eggs
+6,18/07/2025,eggs
+6,11/04/2025,sausage
+6,18/04/2025,sausage
+6,21/04/2025,sausage
+6,23/05/2025,sausage
+6,04/07/2025,sausage
+6,12/08/2025,sausage
+6,07/05/2025,rice
+6,11/06/2025,rice
+6,30/06/2025,rice
+6,11/07/2025,rice
+6,05/08/2025,rice
+6,10/03/2025,sugar
+6,23/03/2025,sugar
+6,23/04/2025,sugar
+6,30/05/2025,sugar
+6,21/06/2025,sugar
+6,27/06/2025,cheese
+6,04/08/2025,cheese
+6,26/08/2025,cheese
+6,10/10/2025,cheese
+6,19/10/2025,cheese
+7,07/05/2025,beans
+7,31/05/2025,beans
+7,16/06/2025,beans
+7,29/07/2025,beans
+7,17/08/2025,beans
+7,21/09/2025,beans
+7,03/01/2025,cooking oil
+7,15/02/2025,cooking oil
+7,17/03/2025,cooking oil
+7,06/04/2025,cooking oil
+7,11/04/2025,cooking oil
+7,14/04/2025,cooking oil
+7,09/06/2025,sausage
+7,22/06/2025,sausage
+7,23/07/2025,sausage
+7,30/08/2025,sausage
+7,29/09/2025,sausage
+7,03/01/2025,coffee
+7,15/01/2025,coffee
+7,21/02/2025,coffee
+7,26/02/2025,coffee
+7,24/03/2025,coffee
+7,05/04/2025,eggs
+7,10/04/2025,eggs
+7,02/05/2025,eggs
+7,28/05/2025,eggs
+7,02/06/2025,eggs
+7,08/06/2025,rice
+7,23/07/2025,rice
+7,01/08/2025,rice
+7,26/08/2025,rice
+7,03/10/2025,rice
+7,28/02/2025,detergent
+7,13/03/2025,detergent
+7,27/03/2025,detergent
+7,25/04/2025,detergent
+7,29/04/2025,detergent
+8,28/04/2025,salt
+8,03/05/2025,salt
+8,05/06/2025,salt
+8,22/06/2025,salt
+8,07/07/2025,salt
+8,27/03/2025,sugar
+8,13/04/2025,sugar
+8,30/04/2025,sugar
+8,04/05/2025,sugar
+8,18/06/2025,sugar
+8,03/07/2025,sugar
+8,28/03/2025,cookies
+8,04/04/2025,cookies
+8,24/04/2025,cookies
+8,19/05/2025,cookies
+8,02/07/2025,cookies
+8,06/08/2025,cookies
+8,04/01/2025,coffee
+8,23/01/2025,coffee
+8,06/02/2025,coffee
+8,18/03/2025,coffee
+8,06/04/2025,coffee
+8,11/04/2025,coffee
+8,24/03/2025,beans
+8,16/04/2025,beans
+8,16/05/2025,beans
+8,26/06/2025,beans
+8,31/07/2025,beans
+8,10/08/2025,beans
+8,02/03/2025,detergent
+8,01/04/2025,detergent
+8,04/04/2025,detergent
+8,10/05/2025,detergent
+8,16/06/2025,detergent
+8,14/03/2025,rice
+8,21/03/2025,rice
+8,05/05/2025,rice
+8,29/05/2025,rice
+8,10/07/2025,rice
+9,10/06/2025,cheese
+9,18/07/2025,cheese
+9,29/07/2025,cheese
+9,13/08/2025,cheese
+9,11/09/2025,cheese
+9,26/10/2025,cheese
+9,19/05/2025,eggs
+9,10/06/2025,eggs
+9,08/07/2025,eggs
+9,15/08/2025,eggs
+9,18/08/2025,eggs
+9,14/02/2025,detergent
+9,26/03/2025,detergent
+9,06/05/2025,detergent
+9,19/06/2025,detergent
+9,12/07/2025,detergent
+9,13/08/2025,detergent
+9,07/06/2025,cookies
+9,12/07/2025,cookies
+9,14/08/2025,cookies
+9,27/08/2025,cookies
+9,11/10/2025,cookies
+9,19/10/2025,cookies
+9,27/01/2025,shampoo
+9,14/02/2025,shampoo
+9,08/03/2025,shampoo
+9,25/03/2025,shampoo
+9,09/04/2025,shampoo
+9,21/04/2025,shampoo
+9,16/02/2025,toilet paper
+9,30/03/2025,toilet paper
+9,06/04/2025,toilet paper
+9,08/05/2025,toilet paper
+9,06/06/2025,toilet paper
+10,25/01/2025,sugar
+10,24/02/2025,sugar
+10,13/03/2025,sugar
+10,27/03/2025,sugar
+10,02/05/2025,sugar
+10,08/05/2025,bread
+10,18/05/2025,bread
+10,19/06/2025,bread
+10,30/06/2025,bread
+10,01/08/2025,bread
+10,20/04/2025,shampoo
+10,25/05/2025,shampoo
+10,24/06/2025,shampoo
+10,01/08/2025,shampoo
+10,01/09/2025,shampoo
+10,14/09/2025,shampoo
+10,25/03/2025,beans
+10,12/04/2025,beans
+10,25/05/2025,beans
+10,14/06/2025,beans
+10,20/07/2025,beans
+10,23/08/2025,beans
+10,15/03/2025,rice
+10,22/03/2025,rice
+10,12/04/2025,rice
+10,30/04/2025,rice
+10,20/05/2025,rice
+10,03/05/2025,cookies
+10,14/05/2025,cookies
+10,26/05/2025,cookies
+10,12/06/2025,cookies
+10,09/07/2025,cookies
+10,21/07/2025,cookies
+11,27/02/2025,salt
+11,28/03/2025,salt
+11,24/04/2025,salt
+11,03/06/2025,salt
+11,07/06/2025,salt
+11,01/04/2025,shampoo
+11,26/04/2025,shampoo
+11,18/05/2025,shampoo
+11,14/06/2025,shampoo
+11,13/07/2025,shampoo
+11,19/08/2025,shampoo
+11,08/04/2025,toilet paper
+11,28/04/2025,toilet paper
+11,28/05/2025,toilet paper
+11,01/07/2025,toilet paper
+11,05/07/2025,toilet paper
+11,22/06/2025,eggs
+11,20/07/2025,eggs
+11,02/08/2025,eggs
+11,03/09/2025,eggs
+11,14/09/2025,eggs
+11,26/10/2025,eggs
+11,19/04/2025,bread
+11,28/05/2025,bread
+11,12/07/2025,bread
+11,16/07/2025,bread
+11,24/07/2025,bread
+11,28/02/2025,cooking oil
+11,01/04/2025,cooking oil
+11,15/04/2025,cooking oil
+11,21/04/2025,cooking oil
+11,10/05/2025,cooking oil
+11,06/06/2025,cooking oil
+12,27/03/2025,cooking oil
+12,04/04/2025,cooking oil
+12,07/05/2025,cooking oil
+12,11/05/2025,cooking oil
+12,17/06/2025,cooking oil
+12,23/06/2025,cooking oil
+12,03/06/2025,toilet paper
+12,17/07/2025,toilet paper
+12,22/07/2025,toilet paper
+12,26/07/2025,toilet paper
+12,13/08/2025,toilet paper
+12,05/05/2025,pasta
+12,23/05/2025,pasta
+12,03/06/2025,pasta
+12,06/07/2025,pasta
+12,20/08/2025,pasta
+12,23/04/2025,sugar
+12,12/05/2025,sugar
+12,07/06/2025,sugar
+12,20/06/2025,sugar
+12,31/07/2025,sugar
+12,10/02/2025,shampoo
+12,19/02/2025,shampoo
+12,31/03/2025,shampoo
+12,04/04/2025,shampoo
+12,26/04/2025,shampoo
+12,23/04/2025,detergent
+12,08/05/2025,detergent
+12,15/05/2025,detergent
+12,24/06/2025,detergent
+12,06/08/2025,detergent
+12,24/08/2025,detergent
+13,12/06/2025,beans
+13,19/06/2025,beans
+13,24/07/2025,beans
+13,06/09/2025,beans
+13,30/09/2025,beans
+13,03/10/2025,beans
+13,14/01/2025,sugar
+13,09/02/2025,sugar
+13,24/03/2025,sugar
+13,25/04/2025,sugar
+13,07/05/2025,sugar
+13,06/06/2025,sugar
+13,26/05/2025,cheese
+13,02/07/2025,cheese
+13,04/08/2025,cheese
+13,05/09/2025,cheese
+13,05/10/2025,cheese
+13,14/11/2025,cheese
+13,27/02/2025,cooking oil
+13,07/03/2025,cooking oil
+13,27/03/2025,cooking oil
+13,27/04/2025,cooking oil
+13,15/05/2025,cooking oil
+13,16/06/2025,cooking oil
+13,01/03/2025,whole milk
+13,04/04/2025,whole milk
+13,27/04/2025,whole milk
+13,11/05/2025,whole milk
+13,14/06/2025,whole milk
+13,30/06/2025,whole milk
+13,09/03/2025,toilet paper
+13,19/04/2025,toilet paper
+13,09/05/2025,toilet paper
+13,16/06/2025,toilet paper
+13,19/06/2025,toilet paper
+13,25/07/2025,toilet paper
+13,24/02/2025,eggs
+13,25/03/2025,eggs
+13,28/04/2025,eggs
+13,05/06/2025,eggs
+13,23/06/2025,eggs
+14,22/03/2025,cooking oil
+14,01/05/2025,cooking oil
+14,27/05/2025,cooking oil
+14,29/06/2025,cooking oil
+14,06/08/2025,cooking oil
+14,24/04/2025,sugar
+14,01/06/2025,sugar
+14,25/06/2025,sugar
+14,20/07/2025,sugar
+14,21/08/2025,sugar
+14,10/09/2025,sugar
+14,04/02/2025,whole milk
+14,19/02/2025,whole milk
+14,14/03/2025,whole milk
+14,24/03/2025,whole milk
+14,30/04/2025,whole milk
+14,14/05/2025,whole milk
+14,16/06/2025,sausage
+14,06/07/2025,sausage
+14,15/08/2025,sausage
+14,20/09/2025,sausage
+14,31/10/2025,sausage
+14,10/02/2025,detergent
+14,27/02/2025,detergent
+14,25/03/2025,detergent
+14,08/04/2025,detergent
+14,30/04/2025,detergent
+14,02/03/2025,beans
+14,08/03/2025,beans
+14,15/04/2025,beans
+14,06/05/2025,beans
+14,17/05/2025,beans
+14,28/01/2025,shampoo
+14,31/01/2025,shampoo
+14,11/03/2025,shampoo
+14,01/04/2025,shampoo
+14,04/05/2025,shampoo
+14,06/06/2025,shampoo
+15,19/01/2025,toilet paper
+15,03/03/2025,toilet paper
+15,09/03/2025,toilet paper
+15,21/03/2025,toilet paper
+15,02/04/2025,toilet paper
+15,11/05/2025,toilet paper
+15,04/02/2025,whole milk
+15,14/03/2025,whole milk
+15,12/04/2025,whole milk
+15,23/05/2025,whole milk
+15,03/07/2025,whole milk
+15,13/05/2025,detergent
+15,13/06/2025,detergent
+15,14/07/2025,detergent
+15,05/08/2025,detergent
+15,14/09/2025,detergent
+15,20/05/2025,bread
+15,26/05/2025,bread
+15,07/07/2025,bread
+15,16/07/2025,bread
+15,01/08/2025,bread
+15,13/09/2025,bread
+15,03/06/2025,sausage
+15,16/06/2025,sausage
+15,04/07/2025,sausage
+15,18/07/2025,sausage
+15,25/08/2025,sausage
+15,01/09/2025,sausage
+15,15/04/2025,coffee
+15,26/05/2025,coffee
+15,28/06/2025,coffee
+15,19/07/2025,coffee
+15,24/07/2025,coffee
+15,10/06/2025,shampoo
+15,12/07/2025,shampoo
+15,19/07/2025,shampoo
+15,05/08/2025,shampoo
+15,24/08/2025,shampoo
+15,06/10/2025,shampoo
+16,03/02/2025,salt
+16,09/02/2025,salt
+16,22/02/2025,salt
+16,16/03/2025,salt
+16,26/04/2025,salt
+16,04/06/2025,salt
+16,15/01/2025,sausage
+16,06/02/2025,sausage
+16,06/03/2025,sausage
+16,26/03/2025,sausage
+16,30/04/2025,sausage
+16,06/06/2025,sausage
+16,20/01/2025,eggs
+16,25/01/2025,eggs
+16,24/02/2025,eggs
+16,19/03/2025,eggs
+16,29/04/2025,eggs
+16,18/05/2025,eggs
+16,22/02/2025,beans
+16,02/04/2025,beans
+16,12/05/2025,beans
+16,16/05/2025,beans
+16,05/06/2025,beans
+16,16/02/2025,cookies
+16,24/03/2025,cookies
+16,07/05/2025,cookies
+16,07/06/2025,cookies
+16,27/06/2025,cookies
+16,27/06/2025,rice
+16,31/07/2025,rice
+16,08/08/2025,rice
+16,10/09/2025,rice
+16,05/10/2025,rice
+16,03/11/2025,rice
+17,02/05/2025,beans
+17,03/06/2025,beans
+17,11/06/2025,beans
+17,04/07/2025,beans
+17,23/07/2025,beans
+17,15/08/2025,beans
+17,27/05/2025,salt
+17,30/05/2025,salt
+17,14/07/2025,salt
+17,20/08/2025,salt
+17,21/09/2025,salt
+17,20/10/2025,salt
+17,12/05/2025,rice
+17,23/06/2025,rice
+17,27/07/2025,rice
+17,08/09/2025,rice
+17,09/10/2025,rice
+17,18/03/2025,toilet paper
+17,29/03/2025,toilet paper
+17,19/04/2025,toilet paper
+17,20/05/2025,toilet paper
+17,23/06/2025,toilet paper
+17,20/06/2025,shampoo
+17,08/07/2025,shampoo
+17,21/07/2025,shampoo
+17,12/08/2025,shampoo
+17,19/09/2025,shampoo
+17,08/01/2025,bread
+17,18/01/2025,bread
+17,19/02/2025,bread
+17,01/03/2025,bread
+17,14/04/2025,bread
+17,26/04/2025,bread
+17,23/05/2025,detergent
+17,12/06/2025,detergent
+17,11/07/2025,detergent
+17,13/08/2025,detergent
+17,15/09/2025,detergent
+17,03/10/2025,detergent
+18,25/03/2025,sugar
+18,23/04/2025,sugar
+18,17/05/2025,sugar
+18,21/06/2025,sugar
+18,11/07/2025,sugar
+18,10/06/2025,beans
+18,20/07/2025,beans
+18,29/08/2025,beans
+18,13/10/2025,beans
+18,16/11/2025,beans
+18,28/11/2025,beans
+18,11/03/2025,cheese
+18,18/04/2025,cheese
+18,25/05/2025,cheese
+18,21/06/2025,cheese
+18,23/07/2025,cheese
+18,15/08/2025,cheese
+18,13/05/2025,eggs
+18,30/05/2025,eggs
+18,28/06/2025,eggs
+18,03/07/2025,eggs
+18,26/07/2025,eggs
+18,22/04/2025,coffee
+18,05/06/2025,coffee
+18,17/06/2025,coffee
+18,21/07/2025,coffee
+18,26/07/2025,coffee
+18,06/08/2025,coffee
+18,28/01/2025,rice
+18,28/02/2025,rice
+18,09/03/2025,rice
+18,14/04/2025,rice
+18,16/05/2025,rice
+18,19/05/2025,rice
+19,03/06/2025,detergent
+19,27/06/2025,detergent
+19,03/08/2025,detergent
+19,30/08/2025,detergent
+19,22/09/2025,detergent
+19,04/11/2025,detergent
+19,03/05/2025,sausage
+19,21/05/2025,sausage
+19,03/07/2025,sausage
+19,24/07/2025,sausage
+19,10/08/2025,sausage
+19,25/01/2025,bread
+19,09/03/2025,bread
+19,18/03/2025,bread
+19,18/04/2025,bread
+19,01/05/2025,bread
+19,23/05/2025,bread
+19,26/03/2025,sugar
+19,01/04/2025,sugar
+19,22/04/2025,sugar
+19,17/05/2025,sugar
+19,12/06/2025,sugar
+19,17/02/2025,pasta
+19,18/03/2025,pasta
+19,26/04/2025,pasta
+19,10/05/2025,pasta
+19,23/05/2025,pasta
+19,28/05/2025,toilet paper
+19,24/06/2025,toilet paper
+19,05/08/2025,toilet paper
+19,23/08/2025,toilet paper
+19,26/09/2025,toilet paper
+19,15/02/2025,cheese
+19,30/03/2025,cheese
+19,18/04/2025,cheese
+19,20/05/2025,cheese
+19,08/06/2025,cheese
+20,12/04/2025,cooking oil
+20,22/05/2025,cooking oil
+20,13/06/2025,cooking oil
+20,26/07/2025,cooking oil
+20,25/08/2025,cooking oil
+20,07/03/2025,pasta
+20,03/04/2025,pasta
+20,06/05/2025,pasta
+20,15/05/2025,pasta
+20,02/06/2025,pasta
+20,29/06/2025,pasta
+20,10/05/2025,detergent
+20,31/05/2025,detergent
+20,04/06/2025,detergent
+20,19/07/2025,detergent
+20,16/08/2025,detergent
+20,05/09/2025,detergent
+20,24/05/2025,cookies
+20,27/06/2025,cookies
+20,18/07/2025,cookies
+20,04/08/2025,cookies
+20,14/09/2025,cookies
+20,07/06/2025,eggs
+20,19/07/2025,eggs
+20,07/08/2025,eggs
+20,21/09/2025,eggs
+20,02/10/2025,eggs
+20,21/06/2025,rice
+20,26/06/2025,rice
+20,18/07/2025,rice
+20,18/08/2025,rice
+20,23/08/2025,rice
+21,26/02/2025,detergent
+21,04/04/2025,detergent
+21,30/04/2025,detergent
+21,05/06/2025,detergent
+21,10/07/2025,detergent
+21,27/03/2025,sausage
+21,29/04/2025,sausage
+21,20/05/2025,sausage
+21,13/06/2025,sausage
+21,23/06/2025,sausage
+21,25/02/2025,pasta
+21,14/03/2025,pasta
+21,11/04/2025,pasta
+21,19/05/2025,pasta
+21,14/06/2025,pasta
+21,09/01/2025,toilet paper
+21,15/02/2025,toilet paper
+21,25/02/2025,toilet paper
+21,29/03/2025,toilet paper
+21,24/04/2025,toilet paper
+21,13/05/2025,toilet paper
+21,12/06/2025,coffee
+21,21/06/2025,coffee
+21,08/07/2025,coffee
+21,10/08/2025,coffee
+21,14/08/2025,coffee
+21,25/09/2025,coffee
+21,08/05/2025,shampoo
+21,21/06/2025,shampoo
+21,28/06/2025,shampoo
+21,10/08/2025,shampoo
+21,11/09/2025,shampoo
+21,03/10/2025,shampoo
+21,05/01/2025,rice
+21,10/01/2025,rice
+21,15/01/2025,rice
+21,06/02/2025,rice
+21,12/03/2025,rice
+21,22/03/2025,rice
+22,24/05/2025,detergent
+22,05/06/2025,detergent
+22,04/07/2025,detergent
+22,17/08/2025,detergent
+22,26/08/2025,detergent
+22,29/09/2025,detergent
+22,02/03/2025,shampoo
+22,28/03/2025,shampoo
+22,13/04/2025,shampoo
+22,14/05/2025,shampoo
+22,14/06/2025,shampoo
+22,02/07/2025,shampoo
+22,12/06/2025,bread
+22,19/07/2025,bread
+22,01/09/2025,bread
+22,26/09/2025,bread
+22,02/10/2025,bread
+22,04/02/2025,toilet paper
+22,08/03/2025,toilet paper
+22,16/03/2025,toilet paper
+22,30/04/2025,toilet paper
+22,16/05/2025,toilet paper
+22,29/06/2025,toilet paper
+22,26/01/2025,cookies
+22,19/02/2025,cookies
+22,09/03/2025,cookies
+22,20/03/2025,cookies
+22,28/04/2025,cookies
+22,07/05/2025,eggs
+22,16/06/2025,eggs
+22,02/07/2025,eggs
+22,19/07/2025,eggs
+22,12/08/2025,eggs
+23,22/01/2025,eggs
+23,26/01/2025,eggs
+23,06/02/2025,eggs
+23,09/02/2025,eggs
+23,06/03/2025,eggs
+23,06/01/2025,salt
+23,25/01/2025,salt
+23,31/01/2025,salt
+23,11/02/2025,salt
+23,12/03/2025,salt
+23,17/04/2025,salt
+23,15/04/2025,rice
+23,11/05/2025,rice
+23,15/06/2025,rice
+23,25/07/2025,rice
+23,03/08/2025,rice
+23,02/05/2025,cooking oil
+23,16/06/2025,cooking oil
+23,22/07/2025,cooking oil
+23,13/08/2025,cooking oil
+23,14/09/2025,cooking oil
+23,16/01/2025,pasta
+23,13/02/2025,pasta
+23,15/03/2025,pasta
+23,24/03/2025,pasta
+23,27/04/2025,pasta
+23,11/01/2025,detergent
+23,21/02/2025,detergent
+23,05/03/2025,detergent
+23,12/03/2025,detergent
+23,23/03/2025,detergent
+24,26/01/2025,sugar
+24,05/02/2025,sugar
+24,21/03/2025,sugar
+24,04/05/2025,sugar
+24,11/06/2025,sugar
+24,27/06/2025,sugar
+24,14/02/2025,cheese
+24,10/03/2025,cheese
+24,11/04/2025,cheese
+24,09/05/2025,cheese
+24,07/06/2025,cheese
+24,16/06/2025,cheese
+24,22/03/2025,eggs
+24,10/04/2025,eggs
+24,06/05/2025,eggs
+24,18/05/2025,eggs
+24,20/06/2025,eggs
+24,27/06/2025,eggs
+24,14/01/2025,detergent
+24,23/01/2025,detergent
+24,18/02/2025,detergent
+24,01/03/2025,detergent
+24,08/04/2025,detergent
+24,04/06/2025,bread
+24,03/07/2025,bread
+24,28/07/2025,bread
+24,11/09/2025,bread
+24,11/10/2025,bread
+24,17/10/2025,bread
+24,04/03/2025,salt
+24,12/04/2025,salt
+24,17/05/2025,salt
+24,02/06/2025,salt
+24,14/06/2025,salt
+24,29/07/2025,salt
+24,12/01/2025,cooking oil
+24,19/02/2025,cooking oil
+24,17/03/2025,cooking oil
+24,27/03/2025,cooking oil
+24,16/04/2025,cooking oil
+25,22/05/2025,salt
+25,11/06/2025,salt
+25,15/06/2025,salt
+25,29/06/2025,salt
+25,19/07/2025,salt
+25,01/03/2025,pasta
+25,15/03/2025,pasta
+25,27/03/2025,pasta
+25,05/05/2025,pasta
+25,19/06/2025,pasta
+25,17/07/2025,pasta
+25,21/06/2025,eggs
+25,25/06/2025,eggs
+25,03/07/2025,eggs
+25,08/08/2025,eggs
+25,24/08/2025,eggs
+25,11/04/2025,sugar
+25,24/04/2025,sugar
+25,20/05/2025,sugar
+25,11/06/2025,sugar
+25,04/07/2025,sugar
+25,12/08/2025,sugar
+25,05/01/2025,cheese
+25,18/01/2025,cheese
+25,01/03/2025,cheese
+25,07/03/2025,cheese
+25,15/03/2025,cheese
+25,14/06/2025,coffee
+25,18/07/2025,coffee
+25,28/08/2025,coffee
+25,28/09/2025,coffee
+25,27/10/2025,coffee
+25,16/11/2025,coffee
+26,22/05/2025,coffee
+26,13/06/2025,coffee
+26,18/06/2025,coffee
+26,05/07/2025,coffee
+26,02/08/2025,coffee
+26,12/09/2025,coffee
+26,10/02/2025,shampoo
+26,26/02/2025,shampoo
+26,09/03/2025,shampoo
+26,28/03/2025,shampoo
+26,18/04/2025,shampoo
+26,16/01/2025,sausage
+26,15/02/2025,sausage
+26,01/03/2025,sausage
+26,12/03/2025,sausage
+26,08/04/2025,sausage
+26,18/05/2025,detergent
+26,02/07/2025,detergent
+26,27/07/2025,detergent
+26,03/08/2025,detergent
+26,31/08/2025,detergent
+26,15/01/2025,cookies
+26,22/01/2025,cookies
+26,14/02/2025,cookies
+26,25/03/2025,cookies
+26,24/04/2025,cookies
+26,02/06/2025,cookies
+26,04/03/2025,pasta
+26,01/04/2025,pasta
+26,05/04/2025,pasta
+26,28/04/2025,pasta
+26,11/05/2025,pasta
+26,22/06/2025,pasta
+27,03/05/2025,rice
+27,31/05/2025,rice
+27,22/06/2025,rice
+27,16/07/2025,rice
+27,02/08/2025,rice
+27,26/08/2025,rice
+27,21/05/2025,shampoo
+27,31/05/2025,shampoo
+27,06/07/2025,shampoo
+27,10/08/2025,shampoo
+27,25/08/2025,shampoo
+27,27/06/2025,salt
+27,10/08/2025,salt
+27,22/08/2025,salt
+27,09/09/2025,salt
+27,18/09/2025,salt
+27,30/09/2025,salt
+27,20/02/2025,sausage
+27,04/03/2025,sausage
+27,17/04/2025,sausage
+27,24/04/2025,sausage
+27,08/05/2025,sausage
+27,25/04/2025,beans
+27,03/06/2025,beans
+27,13/07/2025,beans
+27,13/08/2025,beans
+27,21/09/2025,beans
+27,04/11/2025,beans
+27,11/06/2025,cooking oil
+27,23/06/2025,cooking oil
+27,24/07/2025,cooking oil
+27,31/07/2025,cooking oil
+27,02/09/2025,cooking oil
+27,03/10/2025,cooking oil
+27,19/03/2025,cheese
+27,25/03/2025,cheese
+27,19/04/2025,cheese
+27,24/05/2025,cheese
+27,31/05/2025,cheese
+27,22/06/2025,cheese
+28,19/04/2025,sausage
+28,27/05/2025,sausage
+28,01/06/2025,sausage
+28,02/07/2025,sausage
+28,10/08/2025,sausage
+28,23/09/2025,sausage
+28,16/05/2025,whole milk
+28,20/06/2025,whole milk
+28,02/07/2025,whole milk
+28,08/07/2025,whole milk
+28,08/08/2025,whole milk
+28,17/08/2025,whole milk
+28,21/05/2025,toilet paper
+28,04/06/2025,toilet paper
+28,09/06/2025,toilet paper
+28,27/06/2025,toilet paper
+28,28/07/2025,toilet paper
+28,12/03/2025,detergent
+28,02/04/2025,detergent
+28,29/04/2025,detergent
+28,28/05/2025,detergent
+28,21/06/2025,detergent
+28,21/06/2025,pasta
+28,15/07/2025,pasta
+28,22/07/2025,pasta
+28,15/08/2025,pasta
+28,24/08/2025,pasta
+28,09/03/2025,cookies
+28,23/04/2025,cookies
+28,03/06/2025,cookies
+28,15/06/2025,cookies
+28,09/07/2025,cookies
+28,17/07/2025,cookies
+28,10/03/2025,coffee
+28,23/04/2025,coffee
+28,07/06/2025,coffee
+28,05/07/2025,coffee
+28,16/07/2025,coffee
+29,22/06/2025,cheese
+29,22/07/2025,cheese
+29,26/08/2025,cheese
+29,21/09/2025,cheese
+29,25/09/2025,cheese
+29,07/02/2025,eggs
+29,03/03/2025,eggs
+29,06/04/2025,eggs
+29,21/04/2025,eggs
+29,08/05/2025,eggs
+29,19/05/2025,eggs
+29,28/03/2025,shampoo
+29,06/04/2025,shampoo
+29,11/05/2025,shampoo
+29,17/06/2025,shampoo
+29,23/07/2025,shampoo
+29,05/05/2025,cookies
+29,15/06/2025,cookies
+29,12/07/2025,cookies
+29,24/07/2025,cookies
+29,06/08/2025,cookies
+29,20/08/2025,cookies
+29,15/06/2025,toilet paper
+29,20/06/2025,toilet paper
+29,19/07/2025,toilet paper
+29,14/08/2025,toilet paper
+29,01/09/2025,toilet paper
+29,26/06/2025,rice
+29,27/07/2025,rice
+29,13/08/2025,rice
+29,19/09/2025,rice
+29,07/10/2025,rice
+29,29/10/2025,rice
+30,17/05/2025,coffee
+30,15/06/2025,coffee
+30,28/06/2025,coffee
+30,13/07/2025,coffee
+30,23/08/2025,coffee
+30,03/09/2025,coffee
+30,16/06/2025,cookies
+30,12/07/2025,cookies
+30,19/08/2025,cookies
+30,28/08/2025,cookies
+30,03/10/2025,cookies
+30,25/01/2025,cheese
+30,07/02/2025,cheese
+30,27/02/2025,cheese
+30,30/03/2025,cheese
+30,04/05/2025,cheese
+30,16/05/2025,cheese
+30,27/02/2025,bread
+30,30/03/2025,bread
+30,24/04/2025,bread
+30,28/04/2025,bread
+30,27/05/2025,bread
+30,12/05/2025,sugar
+30,30/05/2025,sugar
+30,26/06/2025,sugar
+30,04/07/2025,sugar
+30,30/07/2025,sugar
+30,16/08/2025,sugar
+30,27/01/2025,detergent
+30,12/03/2025,detergent
+30,05/04/2025,detergent
+30,17/04/2025,detergent
+30,28/04/2025,detergent
+30,03/05/2025,detergent
+31,09/01/2025,detergent
+31,25/01/2025,detergent
+31,06/02/2025,detergent
+31,16/03/2025,detergent
+31,26/04/2025,detergent
+31,25/01/2025,sugar
+31,15/02/2025,sugar
+31,05/03/2025,sugar
+31,27/03/2025,sugar
+31,06/04/2025,sugar
+31,12/04/2025,sugar
+31,26/06/2025,coffee
+31,07/08/2025,coffee
+31,08/09/2025,coffee
+31,15/09/2025,coffee
+31,25/09/2025,coffee
+31,29/10/2025,coffee
+31,17/06/2025,bread
+31,26/07/2025,bread
+31,13/08/2025,bread
+31,25/08/2025,bread
+31,15/09/2025,bread
+31,12/05/2025,cooking oil
+31,30/05/2025,cooking oil
+31,08/07/2025,cooking oil
+31,06/08/2025,cooking oil
+31,20/08/2025,cooking oil
+31,12/05/2025,cheese
+31,19/05/2025,cheese
+31,24/06/2025,cheese
+31,31/07/2025,cheese
+31,04/09/2025,cheese
+31,28/04/2025,whole milk
+31,31/05/2025,whole milk
+31,05/06/2025,whole milk
+31,18/07/2025,whole milk
+31,14/08/2025,whole milk
+32,02/02/2025,whole milk
+32,27/02/2025,whole milk
+32,05/04/2025,whole milk
+32,29/04/2025,whole milk
+32,12/06/2025,whole milk
+32,26/06/2025,whole milk
+32,06/06/2025,toilet paper
+32,17/06/2025,toilet paper
+32,24/06/2025,toilet paper
+32,26/07/2025,toilet paper
+32,31/07/2025,toilet paper
+32,21/08/2025,toilet paper
+32,02/02/2025,sugar
+32,25/02/2025,sugar
+32,19/03/2025,sugar
+32,23/04/2025,sugar
+32,21/05/2025,sugar
+32,02/03/2025,sausage
+32,15/04/2025,sausage
+32,30/04/2025,sausage
+32,21/05/2025,sausage
+32,15/06/2025,sausage
+32,21/06/2025,sausage
+32,04/03/2025,cooking oil
+32,30/03/2025,cooking oil
+32,29/04/2025,cooking oil
+32,27/05/2025,cooking oil
+32,27/06/2025,cooking oil
+32,24/07/2025,cooking oil
+32,23/04/2025,beans
+32,27/05/2025,beans
+32,22/06/2025,beans
+32,28/07/2025,beans
+32,17/08/2025,beans
+32,14/01/2025,salt
+32,24/02/2025,salt
+32,10/03/2025,salt
+32,16/04/2025,salt
+32,07/05/2025,salt
+32,30/05/2025,salt
+33,23/02/2025,cookies
+33,26/03/2025,cookies
+33,20/04/2025,cookies
+33,21/05/2025,cookies
+33,26/05/2025,cookies
+33,20/06/2025,cookies
+33,21/03/2025,pasta
+33,27/03/2025,pasta
+33,03/04/2025,pasta
+33,18/05/2025,pasta
+33,30/06/2025,pasta
+33,28/07/2025,pasta
+33,05/01/2025,detergent
+33,15/02/2025,detergent
+33,18/03/2025,detergent
+33,23/03/2025,detergent
+33,03/04/2025,detergent
+33,12/06/2025,salt
+33,08/07/2025,salt
+33,04/08/2025,salt
+33,12/09/2025,salt
+33,17/09/2025,salt
+33,15/06/2025,bread
+33,11/07/2025,bread
+33,06/08/2025,bread
+33,06/09/2025,bread
+33,13/09/2025,bread
+33,12/05/2025,cheese
+33,09/06/2025,cheese
+33,02/07/2025,cheese
+33,15/08/2025,cheese
+33,04/09/2025,cheese
+34,25/03/2025,whole milk
+34,13/04/2025,whole milk
+34,14/05/2025,whole milk
+34,30/05/2025,whole milk
+34,11/07/2025,whole milk
+34,04/02/2025,coffee
+34,15/02/2025,coffee
+34,22/02/2025,coffee
+34,25/03/2025,coffee
+34,08/04/2025,coffee
+34,09/05/2025,coffee
+34,12/06/2025,rice
+34,19/06/2025,rice
+34,27/07/2025,rice
+34,02/09/2025,rice
+34,23/09/2025,rice
+34,15/10/2025,rice
+34,17/03/2025,bread
+34,03/04/2025,bread
+34,13/04/2025,bread
+34,28/04/2025,bread
+34,09/05/2025,bread
+34,12/01/2025,eggs
+34,19/02/2025,eggs
+34,30/03/2025,eggs
+34,25/04/2025,eggs
+34,27/05/2025,eggs
+34,04/07/2025,eggs
+34,10/01/2025,shampoo
+34,07/02/2025,shampoo
+34,12/03/2025,shampoo
+34,17/04/2025,shampoo
+34,16/05/2025,shampoo
+35,27/02/2025,detergent
+35,06/04/2025,detergent
+35,19/05/2025,detergent
+35,28/06/2025,detergent
+35,12/07/2025,detergent
+35,23/07/2025,detergent
+35,17/01/2025,toilet paper
+35,29/01/2025,toilet paper
+35,20/02/2025,toilet paper
+35,05/03/2025,toilet paper
+35,18/03/2025,toilet paper
+35,17/03/2025,cookies
+35,07/04/2025,cookies
+35,15/04/2025,cookies
+35,04/05/2025,cookies
+35,19/05/2025,cookies
+35,21/02/2025,sausage
+35,15/03/2025,sausage
+35,26/04/2025,sausage
+35,02/06/2025,sausage
+35,10/06/2025,sausage
+35,15/07/2025,sausage
+35,19/05/2025,bread
+35,31/05/2025,bread
+35,13/06/2025,bread
+35,28/07/2025,bread
+35,08/09/2025,bread
+35,02/05/2025,coffee
+35,06/05/2025,coffee
+35,14/05/2025,coffee
+35,19/05/2025,coffee
+35,02/07/2025,coffee
+35,10/08/2025,coffee
+36,10/06/2025,salt
+36,13/07/2025,salt
+36,31/07/2025,salt
+36,28/08/2025,salt
+36,19/09/2025,salt
+36,21/10/2025,salt
+36,15/02/2025,cheese
+36,16/03/2025,cheese
+36,18/04/2025,cheese
+36,20/05/2025,cheese
+36,05/06/2025,cheese
+36,28/03/2025,cookies
+36,20/04/2025,cookies
+36,15/05/2025,cookies
+36,12/06/2025,cookies
+36,23/06/2025,cookies
+36,08/03/2025,whole milk
+36,09/04/2025,whole milk
+36,19/04/2025,whole milk
+36,09/05/2025,whole milk
+36,09/06/2025,whole milk
+36,02/01/2025,bread
+36,23/01/2025,bread
+36,19/02/2025,bread
+36,02/04/2025,bread
+36,01/05/2025,bread
+36,19/03/2025,pasta
+36,11/04/2025,pasta
+36,26/04/2025,pasta
+36,09/05/2025,pasta
+36,12/06/2025,pasta
+37,07/02/2025,pasta
+37,19/03/2025,pasta
+37,13/04/2025,pasta
+37,19/04/2025,pasta
+37,25/04/2025,pasta
+37,16/05/2025,pasta
+37,18/03/2025,cooking oil
+37,21/03/2025,cooking oil
+37,30/03/2025,cooking oil
+37,29/04/2025,cooking oil
+37,10/05/2025,cooking oil
+37,29/05/2025,cooking oil
+37,02/03/2025,detergent
+37,30/03/2025,detergent
+37,05/04/2025,detergent
+37,14/05/2025,detergent
+37,21/06/2025,detergent
+37,06/07/2025,detergent
+37,13/01/2025,bread
+37,17/02/2025,bread
+37,20/03/2025,bread
+37,27/04/2025,bread
+37,17/05/2025,bread
+37,28/06/2025,bread
+37,04/02/2025,whole milk
+37,04/03/2025,whole milk
+37,30/03/2025,whole milk
+37,23/04/2025,whole milk
+37,31/05/2025,whole milk
+37,20/02/2025,sausage
+37,27/03/2025,sausage
+37,24/04/2025,sausage
+37,29/05/2025,sausage
+37,03/06/2025,sausage
+37,23/02/2025,shampoo
+37,19/03/2025,shampoo
+37,21/04/2025,shampoo
+37,27/05/2025,shampoo
+37,28/06/2025,shampoo
+38,11/05/2025,cookies
+38,15/06/2025,cookies
+38,20/07/2025,cookies
+38,26/08/2025,cookies
+38,29/09/2025,cookies
+38,07/11/2025,cookies
+38,12/01/2025,cooking oil
+38,05/02/2025,cooking oil
+38,15/02/2025,cooking oil
+38,16/03/2025,cooking oil
+38,25/04/2025,cooking oil
+38,17/05/2025,cooking oil
+38,16/05/2025,cheese
+38,04/06/2025,cheese
+38,18/07/2025,cheese
+38,27/08/2025,cheese
+38,05/10/2025,cheese
+38,16/05/2025,toilet paper
+38,29/05/2025,toilet paper
+38,04/07/2025,toilet paper
+38,16/08/2025,toilet paper
+38,27/09/2025,toilet paper
+38,08/06/2025,rice
+38,13/06/2025,rice
+38,22/07/2025,rice
+38,01/08/2025,rice
+38,16/08/2025,rice
+38,14/03/2025,shampoo
+38,26/03/2025,shampoo
+38,24/04/2025,shampoo
+38,10/05/2025,shampoo
+38,08/06/2025,shampoo
+38,13/07/2025,shampoo
+39,13/05/2025,sausage
+39,05/06/2025,sausage
+39,19/06/2025,sausage
+39,21/07/2025,sausage
+39,27/08/2025,sausage
+39,20/09/2025,sausage
+39,25/06/2025,coffee
+39,08/08/2025,coffee
+39,27/08/2025,coffee
+39,08/10/2025,coffee
+39,10/11/2025,coffee
+39,25/11/2025,coffee
+39,10/05/2025,rice
+39,27/05/2025,rice
+39,18/06/2025,rice
+39,09/07/2025,rice
+39,25/07/2025,rice
+39,28/08/2025,rice
+39,18/03/2025,eggs
+39,07/04/2025,eggs
+39,28/04/2025,eggs
+39,08/05/2025,eggs
+39,16/06/2025,eggs
+39,23/07/2025,eggs
+39,25/03/2025,beans
+39,06/04/2025,beans
+39,27/04/2025,beans
+39,02/05/2025,beans
+39,23/05/2025,beans
+39,31/05/2025,beans
+39,09/06/2025,sugar
+39,12/07/2025,sugar
+39,28/07/2025,sugar
+39,12/08/2025,sugar
+39,18/09/2025,sugar
+39,08/10/2025,sugar
+39,04/02/2025,toilet paper
+39,18/03/2025,toilet paper
+39,27/04/2025,toilet paper
+39,15/05/2025,toilet paper
+39,02/06/2025,toilet paper
+39,08/06/2025,toilet paper
+40,25/06/2025,bread
+40,06/07/2025,bread
+40,09/07/2025,bread
+40,16/08/2025,bread
+40,29/08/2025,bread
+40,21/04/2025,whole milk
+40,06/05/2025,whole milk
+40,27/05/2025,whole milk
+40,19/06/2025,whole milk
+40,10/07/2025,whole milk
+40,23/08/2025,whole milk
+40,19/06/2025,sausage
+40,06/07/2025,sausage
+40,12/08/2025,sausage
+40,17/08/2025,sausage
+40,31/08/2025,sausage
+40,27/01/2025,shampoo
+40,24/02/2025,shampoo
+40,30/03/2025,shampoo
+40,13/04/2025,shampoo
+40,04/05/2025,shampoo
+40,19/03/2025,toilet paper
+40,29/04/2025,toilet paper
+40,08/05/2025,toilet paper
+40,01/06/2025,toilet paper
+40,22/06/2025,toilet paper
+40,28/02/2025,pasta
+40,04/04/2025,pasta
+40,06/05/2025,pasta
+40,26/05/2025,pasta
+40,10/06/2025,pasta
+40,20/06/2025,pasta
+41,19/03/2025,cooking oil
+41,03/04/2025,cooking oil
+41,17/04/2025,cooking oil
+41,29/05/2025,cooking oil
+41,11/07/2025,cooking oil
+41,08/08/2025,cooking oil
+41,13/01/2025,cookies
+41,27/02/2025,cookies
+41,08/03/2025,cookies
+41,22/03/2025,cookies
+41,02/04/2025,cookies
+41,05/05/2025,cookies
+41,09/01/2025,detergent
+41,05/02/2025,detergent
+41,23/02/2025,detergent
+41,26/03/2025,detergent
+41,15/04/2025,detergent
+41,24/05/2025,coffee
+41,02/07/2025,coffee
+41,05/07/2025,coffee
+41,24/07/2025,coffee
+41,06/09/2025,coffee
+41,02/10/2025,coffee
+41,04/06/2025,rice
+41,06/07/2025,rice
+41,28/07/2025,rice
+41,10/08/2025,rice
+41,07/09/2025,rice
+41,04/06/2025,whole milk
+41,17/07/2025,whole milk
+41,07/08/2025,whole milk
+41,02/09/2025,whole milk
+41,14/10/2025,whole milk
+41,31/10/2025,whole milk
+42,18/06/2025,pasta
+42,21/07/2025,pasta
+42,27/08/2025,pasta
+42,11/10/2025,pasta
+42,27/10/2025,pasta
+42,14/11/2025,pasta
+42,15/05/2025,rice
+42,20/06/2025,rice
+42,16/07/2025,rice
+42,23/07/2025,rice
+42,31/08/2025,rice
+42,17/05/2025,bread
+42,01/06/2025,bread
+42,10/07/2025,bread
+42,16/08/2025,bread
+42,28/08/2025,bread
+42,15/05/2025,coffee
+42,25/05/2025,coffee
+42,10/06/2025,coffee
+42,20/07/2025,coffee
+42,23/08/2025,coffee
+42,31/08/2025,coffee
+42,15/01/2025,cheese
+42,26/01/2025,cheese
+42,02/03/2025,cheese
+42,31/03/2025,cheese
+42,02/05/2025,cheese
+42,10/06/2025,cheese
+42,26/06/2025,toilet paper
+42,18/07/2025,toilet paper
+42,22/07/2025,toilet paper
+42,19/08/2025,toilet paper
+42,07/09/2025,toilet paper
+42,10/09/2025,toilet paper
+43,16/01/2025,sausage
+43,21/01/2025,sausage
+43,11/02/2025,sausage
+43,12/03/2025,sausage
+43,26/03/2025,sausage
+43,13/03/2025,shampoo
+43,13/04/2025,shampoo
+43,10/05/2025,shampoo
+43,06/06/2025,shampoo
+43,14/06/2025,shampoo
+43,29/07/2025,shampoo
+43,28/06/2025,toilet paper
+43,23/07/2025,toilet paper
+43,02/08/2025,toilet paper
+43,16/08/2025,toilet paper
+43,22/09/2025,toilet paper
+43,08/06/2025,coffee
+43,11/06/2025,coffee
+43,15/06/2025,coffee
+43,07/07/2025,coffee
+43,08/08/2025,coffee
+43,13/05/2025,pasta
+43,30/05/2025,pasta
+43,17/06/2025,pasta
+43,19/07/2025,pasta
+43,13/08/2025,pasta
+43,25/08/2025,pasta
+43,25/06/2025,eggs
+43,05/07/2025,eggs
+43,10/07/2025,eggs
+43,24/08/2025,eggs
+43,22/09/2025,eggs
+44,22/05/2025,bread
+44,28/05/2025,bread
+44,15/06/2025,bread
+44,20/06/2025,bread
+44,18/07/2025,bread
+44,18/08/2025,bread
+44,05/01/2025,beans
+44,09/02/2025,beans
+44,02/03/2025,beans
+44,19/03/2025,beans
+44,27/04/2025,beans
+44,10/02/2025,sausage
+44,22/02/2025,sausage
+44,08/04/2025,sausage
+44,14/05/2025,sausage
+44,31/05/2025,sausage
+44,29/06/2025,sausage
+44,18/01/2025,salt
+44,27/02/2025,salt
+44,13/03/2025,salt
+44,25/04/2025,salt
+44,25/05/2025,salt
+44,02/07/2025,salt
+44,21/03/2025,cheese
+44,05/05/2025,cheese
+44,01/06/2025,cheese
+44,07/07/2025,cheese
+44,30/07/2025,cheese
+44,10/02/2025,whole milk
+44,09/03/2025,whole milk
+44,23/03/2025,whole milk
+44,29/04/2025,whole milk
+44,01/06/2025,whole milk
+44,19/06/2025,whole milk
+45,08/04/2025,detergent
+45,27/04/2025,detergent
+45,13/05/2025,detergent
+45,06/06/2025,detergent
+45,20/07/2025,detergent
+45,03/03/2025,sugar
+45,09/04/2025,sugar
+45,24/04/2025,sugar
+45,30/04/2025,sugar
+45,20/05/2025,sugar
+45,16/06/2025,sugar
+45,07/01/2025,bread
+45,16/02/2025,bread
+45,02/04/2025,bread
+45,10/05/2025,bread
+45,26/05/2025,bread
+45,10/03/2025,whole milk
+45,13/03/2025,whole milk
+45,29/03/2025,whole milk
+45,13/04/2025,whole milk
+45,23/04/2025,whole milk
+45,20/06/2025,eggs
+45,06/07/2025,eggs
+45,03/08/2025,eggs
+45,21/08/2025,eggs
+45,28/09/2025,eggs
+45,15/04/2025,shampoo
+45,22/05/2025,shampoo
+45,05/07/2025,shampoo
+45,30/07/2025,shampoo
+45,21/08/2025,shampoo
+45,09/09/2025,shampoo
+45,04/04/2025,cookies
+45,07/05/2025,cookies
+45,30/05/2025,cookies
+45,15/06/2025,cookies
+45,11/07/2025,cookies
+45,03/08/2025,cookies
+46,05/03/2025,bread
+46,20/03/2025,bread
+46,13/04/2025,bread
+46,30/04/2025,bread
+46,27/05/2025,bread
+46,05/07/2025,bread
+46,21/05/2025,coffee
+46,14/06/2025,coffee
+46,03/07/2025,coffee
+46,06/08/2025,coffee
+46,19/09/2025,coffee
+46,23/10/2025,coffee
+46,26/06/2025,rice
+46,21/07/2025,rice
+46,03/08/2025,rice
+46,14/08/2025,rice
+46,20/09/2025,rice
+46,21/05/2025,whole milk
+46,27/05/2025,whole milk
+46,02/07/2025,whole milk
+46,07/07/2025,whole milk
+46,14/07/2025,whole milk
+46,14/01/2025,detergent
+46,25/01/2025,detergent
+46,09/03/2025,detergent
+46,26/03/2025,detergent
+46,02/04/2025,detergent
+46,17/02/2025,eggs
+46,21/03/2025,eggs
+46,16/04/2025,eggs
+46,22/04/2025,eggs
+46,03/06/2025,eggs
+47,24/05/2025,pasta
+47,13/06/2025,pasta
+47,20/07/2025,pasta
+47,10/08/2025,pasta
+47,14/08/2025,pasta
+47,04/02/2025,whole milk
+47,13/02/2025,whole milk
+47,21/03/2025,whole milk
+47,02/04/2025,whole milk
+47,20/04/2025,whole milk
+47,05/05/2025,whole milk
+47,09/03/2025,cooking oil
+47,06/04/2025,cooking oil
+47,14/04/2025,cooking oil
+47,10/05/2025,cooking oil
+47,07/06/2025,cooking oil
+47,09/07/2025,cooking oil
+47,08/06/2025,eggs
+47,30/06/2025,eggs
+47,08/07/2025,eggs
+47,21/08/2025,eggs
+47,04/10/2025,eggs
+47,13/04/2025,sugar
+47,10/05/2025,sugar
+47,17/06/2025,sugar
+47,20/07/2025,sugar
+47,26/07/2025,sugar
+47,06/06/2025,shampoo
+47,14/06/2025,shampoo
+47,18/07/2025,shampoo
+47,17/08/2025,shampoo
+47,30/09/2025,shampoo
+47,02/05/2025,salt
+47,19/05/2025,salt
+47,04/06/2025,salt
+47,13/07/2025,salt
+47,15/08/2025,salt
+48,28/02/2025,rice
+48,23/03/2025,rice
+48,27/03/2025,rice
+48,12/04/2025,rice
+48,22/05/2025,rice
+48,10/01/2025,cookies
+48,23/01/2025,cookies
+48,03/03/2025,cookies
+48,21/03/2025,cookies
+48,29/04/2025,cookies
+48,26/05/2025,cookies
+48,25/04/2025,detergent
+48,06/05/2025,detergent
+48,14/05/2025,detergent
+48,18/06/2025,detergent
+48,13/07/2025,detergent
+48,19/07/2025,detergent
+48,27/02/2025,eggs
+48,06/03/2025,eggs
+48,30/03/2025,eggs
+48,10/05/2025,eggs
+48,21/06/2025,eggs
+48,01/08/2025,eggs
+48,21/01/2025,cheese
+48,10/02/2025,cheese
+48,13/03/2025,cheese
+48,16/04/2025,cheese
+48,03/05/2025,cheese
+48,28/05/2025,cheese
+48,06/04/2025,cooking oil
+48,16/05/2025,cooking oil
+48,30/06/2025,cooking oil
+48,27/07/2025,cooking oil
+48,04/08/2025,cooking oil
+48,15/09/2025,cooking oil
+49,13/06/2025,rice
+49,06/07/2025,rice
+49,01/08/2025,rice
+49,10/08/2025,rice
+49,18/08/2025,rice
+49,12/04/2025,sausage
+49,02/05/2025,sausage
+49,11/05/2025,sausage
+49,22/05/2025,sausage
+49,30/05/2025,sausage
+49,13/06/2025,sausage
+49,18/05/2025,detergent
+49,22/06/2025,detergent
+49,21/07/2025,detergent
+49,30/07/2025,detergent
+49,03/08/2025,detergent
+49,11/08/2025,detergent
+49,20/05/2025,pasta
+49,12/06/2025,pasta
+49,09/07/2025,pasta
+49,12/07/2025,pasta
+49,02/08/2025,pasta
+49,24/01/2025,shampoo
+49,03/03/2025,shampoo
+49,21/03/2025,shampoo
+49,29/04/2025,shampoo
+49,04/06/2025,shampoo
+49,17/06/2025,shampoo
+49,09/02/2025,cookies
+49,03/03/2025,cookies
+49,23/03/2025,cookies
+49,26/04/2025,cookies
+49,08/05/2025,cookies
+50,08/03/2025,salt
+50,20/04/2025,salt
+50,24/05/2025,salt
+50,04/07/2025,salt
+50,15/08/2025,salt
+50,30/08/2025,salt
+50,10/02/2025,detergent
+50,13/02/2025,detergent
+50,13/03/2025,detergent
+50,06/04/2025,detergent
+50,18/05/2025,detergent
+50,11/04/2025,shampoo
+50,11/05/2025,shampoo
+50,24/06/2025,shampoo
+50,04/08/2025,shampoo
+50,15/08/2025,shampoo
+50,06/09/2025,shampoo
+50,11/04/2025,cooking oil
+50,25/04/2025,cooking oil
+50,23/05/2025,cooking oil
+50,15/06/2025,cooking oil
+50,06/07/2025,cooking oil
+50,26/05/2025,bread
+50,13/06/2025,bread
+50,06/07/2025,bread
+50,02/08/2025,bread
+50,22/08/2025,bread
+50,19/09/2025,bread
+50,07/05/2025,sausage
+50,16/06/2025,sausage
+50,23/07/2025,sausage
+50,06/08/2025,sausage
+50,13/09/2025,sausage
+51,21/02/2025,shampoo
+51,15/03/2025,shampoo
+51,02/04/2025,shampoo
+51,21/04/2025,shampoo
+51,05/06/2025,shampoo
+51,17/06/2025,shampoo
+51,15/01/2025,bread
+51,25/02/2025,bread
+51,30/03/2025,bread
+51,09/05/2025,bread
+51,06/06/2025,bread
+51,13/07/2025,bread
+51,02/05/2025,sugar
+51,28/05/2025,sugar
+51,04/07/2025,sugar
+51,14/08/2025,sugar
+51,26/09/2025,sugar
+51,04/10/2025,sugar
+51,22/06/2025,detergent
+51,17/07/2025,detergent
+51,30/07/2025,detergent
+51,12/09/2025,detergent
+51,24/10/2025,detergent
+51,26/03/2025,coffee
+51,25/04/2025,coffee
+51,04/05/2025,coffee
+51,07/05/2025,coffee
+51,16/05/2025,coffee
+51,04/06/2025,coffee
+51,12/04/2025,sausage
+51,10/05/2025,sausage
+51,11/06/2025,sausage
+51,21/07/2025,sausage
+51,25/08/2025,sausage
+51,16/01/2025,pasta
+51,25/01/2025,pasta
+51,15/02/2025,pasta
+51,16/03/2025,pasta
+51,24/03/2025,pasta
+51,03/04/2025,pasta
+52,04/04/2025,cheese
+52,05/05/2025,cheese
+52,05/06/2025,cheese
+52,28/06/2025,cheese
+52,05/07/2025,cheese
+52,27/07/2025,cheese
+52,28/01/2025,toilet paper
+52,21/02/2025,toilet paper
+52,06/04/2025,toilet paper
+52,15/04/2025,toilet paper
+52,28/04/2025,toilet paper
+52,06/05/2025,bread
+52,30/05/2025,bread
+52,07/07/2025,bread
+52,06/08/2025,bread
+52,07/09/2025,bread
+52,06/06/2025,sugar
+52,20/06/2025,sugar
+52,02/08/2025,sugar
+52,16/09/2025,sugar
+52,16/10/2025,sugar
+52,13/11/2025,sugar
+52,19/04/2025,beans
+52,19/05/2025,beans
+52,15/06/2025,beans
+52,18/06/2025,beans
+52,04/07/2025,beans
+52,26/06/2025,eggs
+52,03/07/2025,eggs
+52,11/08/2025,eggs
+52,20/08/2025,eggs
+52,26/09/2025,eggs
+52,10/10/2025,eggs
+52,15/02/2025,salt
+52,25/02/2025,salt
+52,16/03/2025,salt
+52,30/04/2025,salt
+52,03/06/2025,salt
+52,09/07/2025,salt
+53,06/05/2025,sugar
+53,28/05/2025,sugar
+53,09/07/2025,sugar
+53,18/08/2025,sugar
+53,26/08/2025,sugar
+53,06/09/2025,sugar
+53,10/02/2025,cheese
+53,20/02/2025,cheese
+53,06/03/2025,cheese
+53,01/04/2025,cheese
+53,13/04/2025,cheese
+53,20/04/2025,shampoo
+53,01/05/2025,shampoo
+53,09/06/2025,shampoo
+53,06/07/2025,shampoo
+53,05/08/2025,shampoo
+53,19/08/2025,shampoo
+53,06/05/2025,cooking oil
+53,09/06/2025,cooking oil
+53,30/06/2025,cooking oil
+53,11/07/2025,cooking oil
+53,25/07/2025,cooking oil
+53,02/05/2025,sausage
+53,27/05/2025,sausage
+53,30/05/2025,sausage
+53,03/07/2025,sausage
+53,14/07/2025,sausage
+53,29/07/2025,sausage
+53,22/04/2025,toilet paper
+53,26/05/2025,toilet paper
+53,24/06/2025,toilet paper
+53,25/07/2025,toilet paper
+53,28/08/2025,toilet paper
+53,10/09/2025,toilet paper
+53,10/02/2025,cookies
+53,15/02/2025,cookies
+53,07/03/2025,cookies
+53,24/03/2025,cookies
+53,30/04/2025,cookies
+54,04/05/2025,cooking oil
+54,24/05/2025,cooking oil
+54,30/06/2025,cooking oil
+54,26/07/2025,cooking oil
+54,01/09/2025,cooking oil
+54,07/05/2025,cheese
+54,06/06/2025,cheese
+54,15/06/2025,cheese
+54,29/07/2025,cheese
+54,16/08/2025,cheese
+54,07/09/2025,cheese
+54,12/03/2025,coffee
+54,20/03/2025,coffee
+54,20/04/2025,coffee
+54,30/04/2025,coffee
+54,18/05/2025,coffee
+54,03/06/2025,coffee
+54,20/06/2025,sugar
+54,02/08/2025,sugar
+54,01/09/2025,sugar
+54,14/09/2025,sugar
+54,26/10/2025,sugar
+54,06/11/2025,sugar
+54,19/01/2025,bread
+54,13/02/2025,bread
+54,22/03/2025,bread
+54,11/04/2025,bread
+54,22/05/2025,bread
+54,23/03/2025,eggs
+54,13/04/2025,eggs
+54,04/05/2025,eggs
+54,12/06/2025,eggs
+54,02/07/2025,eggs
+55,28/06/2025,detergent
+55,09/07/2025,detergent
+55,27/07/2025,detergent
+55,08/08/2025,detergent
+55,31/08/2025,detergent
+55,05/04/2025,sugar
+55,14/05/2025,sugar
+55,26/06/2025,sugar
+55,16/07/2025,sugar
+55,28/08/2025,sugar
+55,26/09/2025,sugar
+55,21/01/2025,cooking oil
+55,29/01/2025,cooking oil
+55,26/02/2025,cooking oil
+55,02/04/2025,cooking oil
+55,22/04/2025,cooking oil
+55,18/05/2025,cooking oil
+55,19/03/2025,shampoo
+55,22/03/2025,shampoo
+55,30/03/2025,shampoo
+55,01/05/2025,shampoo
+55,13/06/2025,shampoo
+55,28/07/2025,shampoo
+55,13/05/2025,whole milk
+55,29/05/2025,whole milk
+55,28/06/2025,whole milk
+55,14/07/2025,whole milk
+55,17/08/2025,whole milk
+55,11/03/2025,pasta
+55,18/04/2025,pasta
+55,27/05/2025,pasta
+55,07/06/2025,pasta
+55,16/07/2025,pasta
+55,19/08/2025,pasta
+56,15/02/2025,sausage
+56,19/03/2025,sausage
+56,22/03/2025,sausage
+56,21/04/2025,sausage
+56,06/05/2025,sausage
+56,28/02/2025,pasta
+56,20/03/2025,pasta
+56,28/03/2025,pasta
+56,11/05/2025,pasta
+56,06/06/2025,pasta
+56,25/06/2025,pasta
+56,21/06/2025,cookies
+56,04/07/2025,cookies
+56,10/07/2025,cookies
+56,07/08/2025,cookies
+56,19/09/2025,cookies
+56,11/10/2025,cookies
+56,03/06/2025,sugar
+56,12/06/2025,sugar
+56,15/06/2025,sugar
+56,01/07/2025,sugar
+56,03/08/2025,sugar
+56,10/08/2025,sugar
+56,22/05/2025,bread
+56,22/06/2025,bread
+56,25/06/2025,bread
+56,28/06/2025,bread
+56,22/07/2025,bread
+56,05/06/2025,whole milk
+56,08/07/2025,whole milk
+56,15/07/2025,whole milk
+56,01/08/2025,whole milk
+56,28/08/2025,whole milk
+56,05/09/2025,whole milk
+57,17/01/2025,cookies
+57,25/02/2025,cookies
+57,28/02/2025,cookies
+57,11/04/2025,cookies
+57,25/05/2025,cookies
+57,24/03/2025,toilet paper
+57,09/04/2025,toilet paper
+57,22/05/2025,toilet paper
+57,03/06/2025,toilet paper
+57,02/07/2025,toilet paper
+57,13/08/2025,toilet paper
+57,04/01/2025,detergent
+57,15/01/2025,detergent
+57,25/01/2025,detergent
+57,06/03/2025,detergent
+57,02/04/2025,detergent
+57,26/03/2025,rice
+57,06/04/2025,rice
+57,24/04/2025,rice
+57,14/05/2025,rice
+57,27/06/2025,rice
+57,05/07/2025,rice
+57,01/06/2025,shampoo
+57,16/07/2025,shampoo
+57,07/08/2025,shampoo
+57,23/08/2025,shampoo
+57,28/09/2025,shampoo
+57,08/11/2025,shampoo
+57,13/06/2025,sugar
+57,04/07/2025,sugar
+57,17/08/2025,sugar
+57,23/08/2025,sugar
+57,10/09/2025,sugar
+58,11/03/2025,beans
+58,22/03/2025,beans
+58,18/04/2025,beans
+58,27/05/2025,beans
+58,25/06/2025,beans
+58,25/04/2025,pasta
+58,02/05/2025,pasta
+58,06/05/2025,pasta
+58,15/06/2025,pasta
+58,22/06/2025,pasta
+58,02/02/2025,bread
+58,08/02/2025,bread
+58,08/03/2025,bread
+58,12/04/2025,bread
+58,03/05/2025,bread
+58,15/06/2025,bread
+58,23/04/2025,cookies
+58,21/05/2025,cookies
+58,29/05/2025,cookies
+58,11/07/2025,cookies
+58,17/08/2025,cookies
+58,23/09/2025,cookies
+58,03/03/2025,cheese
+58,25/03/2025,cheese
+58,02/04/2025,cheese
+58,07/05/2025,cheese
+58,23/05/2025,cheese
+58,19/04/2025,sausage
+58,01/06/2025,sausage
+58,15/07/2025,sausage
+58,28/08/2025,sausage
+58,04/09/2025,sausage
+58,26/09/2025,sausage
+58,08/01/2025,eggs
+58,16/01/2025,eggs
+58,15/02/2025,eggs
+58,25/02/2025,eggs
+58,29/03/2025,eggs
+59,23/01/2025,cheese
+59,03/02/2025,cheese
+59,06/02/2025,cheese
+59,19/02/2025,cheese
+59,25/03/2025,cheese
+59,12/02/2025,cookies
+59,23/02/2025,cookies
+59,15/03/2025,cookies
+59,25/03/2025,cookies
+59,29/03/2025,cookies
+59,22/04/2025,cookies
+59,03/05/2025,coffee
+59,22/05/2025,coffee
+59,30/06/2025,coffee
+59,12/08/2025,coffee
+59,19/08/2025,coffee
+59,22/09/2025,coffee
+59,16/01/2025,cooking oil
+59,24/02/2025,cooking oil
+59,09/03/2025,cooking oil
+59,04/04/2025,cooking oil
+59,17/04/2025,cooking oil
+59,06/05/2025,cooking oil
+59,24/02/2025,salt
+59,31/03/2025,salt
+59,03/04/2025,salt
+59,08/04/2025,salt
+59,11/04/2025,salt
+59,12/04/2025,rice
+59,09/05/2025,rice
+59,21/05/2025,rice
+59,04/06/2025,rice
+59,09/06/2025,rice
+60,12/05/2025,bread
+60,22/05/2025,bread
+60,26/06/2025,bread
+60,02/07/2025,bread
+60,16/07/2025,bread
+60,03/04/2025,toilet paper
+60,05/05/2025,toilet paper
+60,26/05/2025,toilet paper
+60,17/06/2025,toilet paper
+60,10/07/2025,toilet paper
+60,12/01/2025,beans
+60,27/01/2025,beans
+60,17/02/2025,beans
+60,28/03/2025,beans
+60,19/04/2025,beans
+60,31/05/2025,beans
+60,19/03/2025,shampoo
+60,22/04/2025,shampoo
+60,07/05/2025,shampoo
+60,13/06/2025,shampoo
+60,01/07/2025,shampoo
+60,13/07/2025,shampoo
+60,08/01/2025,coffee
+60,14/02/2025,coffee
+60,11/03/2025,coffee
+60,23/04/2025,coffee
+60,26/04/2025,coffee
+60,20/05/2025,coffee
+60,24/06/2025,cooking oil
+60,16/07/2025,cooking oil
+60,25/07/2025,cooking oil
+60,10/08/2025,cooking oil
+60,15/09/2025,cooking oil
+60,03/10/2025,cooking oil
+60,05/01/2025,detergent
+60,25/01/2025,detergent
+60,02/02/2025,detergent
+60,07/02/2025,detergent
+60,24/02/2025,detergent
+60,01/04/2025,detergent
+61,19/01/2025,cooking oil
+61,27/02/2025,cooking oil
+61,05/03/2025,cooking oil
+61,04/04/2025,cooking oil
+61,19/05/2025,cooking oil
+61,30/05/2025,cooking oil
+61,28/03/2025,coffee
+61,20/04/2025,coffee
+61,18/05/2025,coffee
+61,10/06/2025,coffee
+61,03/07/2025,coffee
+61,03/08/2025,coffee
+61,07/01/2025,sausage
+61,18/01/2025,sausage
+61,27/02/2025,sausage
+61,08/03/2025,sausage
+61,20/03/2025,sausage
+61,15/04/2025,cheese
+61,08/05/2025,cheese
+61,06/06/2025,cheese
+61,16/06/2025,cheese
+61,23/07/2025,cheese
+61,10/04/2025,salt
+61,12/05/2025,salt
+61,31/05/2025,salt
+61,10/06/2025,salt
+61,18/06/2025,salt
+61,23/06/2025,eggs
+61,03/08/2025,eggs
+61,08/08/2025,eggs
+61,24/08/2025,eggs
+61,16/09/2025,eggs
+61,28/09/2025,eggs
+61,13/03/2025,rice
+61,17/04/2025,rice
+61,23/04/2025,rice
+61,15/05/2025,rice
+61,03/06/2025,rice
+62,15/01/2025,sugar
+62,24/01/2025,sugar
+62,04/02/2025,sugar
+62,14/02/2025,sugar
+62,17/02/2025,sugar
+62,07/02/2025,salt
+62,07/03/2025,salt
+62,02/04/2025,salt
+62,15/05/2025,salt
+62,28/06/2025,salt
+62,01/01/2025,bread
+62,08/01/2025,bread
+62,23/01/2025,bread
+62,08/03/2025,bread
+62,08/04/2025,bread
+62,19/04/2025,bread
+62,02/01/2025,eggs
+62,03/02/2025,eggs
+62,09/02/2025,eggs
+62,22/02/2025,eggs
+62,02/04/2025,eggs
+62,02/05/2025,eggs
+62,13/01/2025,coffee
+62,12/02/2025,coffee
+62,26/02/2025,coffee
+62,23/03/2025,coffee
+62,08/04/2025,coffee
+62,22/04/2025,coffee
+62,05/04/2025,pasta
+62,10/04/2025,pasta
+62,22/05/2025,pasta
+62,03/07/2025,pasta
+62,14/08/2025,pasta
+62,01/09/2025,pasta
+63,14/02/2025,pasta
+63,01/03/2025,pasta
+63,14/04/2025,pasta
+63,20/05/2025,pasta
+63,07/06/2025,pasta
+63,20/07/2025,pasta
+63,26/04/2025,shampoo
+63,21/05/2025,shampoo
+63,23/06/2025,shampoo
+63,30/07/2025,shampoo
+63,02/09/2025,shampoo
+63,09/04/2025,eggs
+63,23/04/2025,eggs
+63,27/04/2025,eggs
+63,20/05/2025,eggs
+63,30/06/2025,eggs
+63,17/07/2025,eggs
+63,26/01/2025,bread
+63,28/02/2025,bread
+63,05/04/2025,bread
+63,30/04/2025,bread
+63,09/06/2025,bread
+63,26/06/2025,bread
+63,22/02/2025,whole milk
+63,12/03/2025,whole milk
+63,01/04/2025,whole milk
+63,08/05/2025,whole milk
+63,14/05/2025,whole milk
+63,27/03/2025,sausage
+63,10/04/2025,sausage
+63,24/04/2025,sausage
+63,12/05/2025,sausage
+63,21/06/2025,sausage
+63,14/07/2025,sausage
+63,23/06/2025,detergent
+63,18/07/2025,detergent
+63,26/08/2025,detergent
+63,04/10/2025,detergent
+63,16/10/2025,detergent
+64,08/01/2025,pasta
+64,18/02/2025,pasta
+64,07/03/2025,pasta
+64,11/03/2025,pasta
+64,16/04/2025,pasta
+64,20/03/2025,eggs
+64,04/04/2025,eggs
+64,15/04/2025,eggs
+64,09/05/2025,eggs
+64,23/05/2025,eggs
+64,05/01/2025,detergent
+64,14/02/2025,detergent
+64,26/02/2025,detergent
+64,08/03/2025,detergent
+64,13/04/2025,detergent
+64,23/03/2025,rice
+64,07/05/2025,rice
+64,04/06/2025,rice
+64,14/07/2025,rice
+64,23/07/2025,rice
+64,05/03/2025,bread
+64,18/03/2025,bread
+64,17/04/2025,bread
+64,30/05/2025,bread
+64,03/07/2025,bread
+64,16/08/2025,bread
+64,18/06/2025,whole milk
+64,30/07/2025,whole milk
+64,24/08/2025,whole milk
+64,10/09/2025,whole milk
+64,25/10/2025,whole milk
+65,01/06/2025,sugar
+65,10/07/2025,sugar
+65,07/08/2025,sugar
+65,15/09/2025,sugar
+65,20/09/2025,sugar
+65,08/05/2025,detergent
+65,20/06/2025,detergent
+65,29/07/2025,detergent
+65,07/08/2025,detergent
+65,10/09/2025,detergent
+65,22/09/2025,detergent
+65,12/02/2025,coffee
+65,07/03/2025,coffee
+65,20/03/2025,coffee
+65,02/05/2025,coffee
+65,10/05/2025,coffee
+65,01/04/2025,salt
+65,20/04/2025,salt
+65,06/05/2025,salt
+65,24/05/2025,salt
+65,31/05/2025,salt
+65,25/06/2025,salt
+65,01/06/2025,cooking oil
+65,07/06/2025,cooking oil
+65,04/07/2025,cooking oil
+65,04/08/2025,cooking oil
+65,02/09/2025,cooking oil
+65,13/04/2025,rice
+65,08/05/2025,rice
+65,14/06/2025,rice
+65,11/07/2025,rice
+65,20/07/2025,rice
+65,22/08/2025,rice
+66,09/03/2025,toilet paper
+66,18/03/2025,toilet paper
+66,25/03/2025,toilet paper
+66,18/04/2025,toilet paper
+66,01/05/2025,toilet paper
+66,03/06/2025,bread
+66,11/07/2025,bread
+66,19/07/2025,bread
+66,12/08/2025,bread
+66,22/09/2025,bread
+66,01/06/2025,sausage
+66,01/07/2025,sausage
+66,14/08/2025,sausage
+66,27/08/2025,sausage
+66,07/10/2025,sausage
+66,06/11/2025,sausage
+66,11/01/2025,sugar
+66,27/01/2025,sugar
+66,11/02/2025,sugar
+66,12/03/2025,sugar
+66,19/04/2025,sugar
+66,10/06/2025,whole milk
+66,02/07/2025,whole milk
+66,20/07/2025,whole milk
+66,29/07/2025,whole milk
+66,04/08/2025,whole milk
+66,01/09/2025,whole milk
+66,02/02/2025,detergent
+66,28/02/2025,detergent
+66,03/03/2025,detergent
+66,02/04/2025,detergent
+66,10/04/2025,detergent
+66,01/05/2025,detergent
+67,28/04/2025,shampoo
+67,08/05/2025,shampoo
+67,30/05/2025,shampoo
+67,27/06/2025,shampoo
+67,30/07/2025,shampoo
+67,21/01/2025,sausage
+67,27/02/2025,sausage
+67,26/03/2025,sausage
+67,09/04/2025,sausage
+67,05/05/2025,sausage
+67,01/06/2025,sausage
+67,02/04/2025,whole milk
+67,21/04/2025,whole milk
+67,22/05/2025,whole milk
+67,23/06/2025,whole milk
+67,12/07/2025,whole milk
+67,02/05/2025,beans
+67,14/05/2025,beans
+67,28/06/2025,beans
+67,07/07/2025,beans
+67,15/07/2025,beans
+67,29/08/2025,beans
+67,08/05/2025,rice
+67,15/06/2025,rice
+67,21/06/2025,rice
+67,18/07/2025,rice
+67,23/08/2025,rice
+67,21/09/2025,rice
+67,08/05/2025,cookies
+67,10/06/2025,cookies
+67,02/07/2025,cookies
+67,10/07/2025,cookies
+67,07/08/2025,cookies
+67,12/08/2025,cookies
+67,25/01/2025,detergent
+67,25/02/2025,detergent
+67,11/03/2025,detergent
+67,24/03/2025,detergent
+67,09/04/2025,detergent
+68,09/05/2025,sausage
+68,01/06/2025,sausage
+68,08/06/2025,sausage
+68,16/06/2025,sausage
+68,13/07/2025,sausage
+68,11/05/2025,shampoo
+68,31/05/2025,shampoo
+68,06/07/2025,shampoo
+68,07/08/2025,shampoo
+68,10/08/2025,shampoo
+68,21/09/2025,shampoo
+68,14/01/2025,pasta
+68,26/01/2025,pasta
+68,07/02/2025,pasta
+68,18/03/2025,pasta
+68,27/04/2025,pasta
+68,06/06/2025,pasta
+68,25/05/2025,cookies
+68,03/06/2025,cookies
+68,24/06/2025,cookies
+68,31/07/2025,cookies
+68,25/08/2025,cookies
+68,21/04/2025,cooking oil
+68,25/05/2025,cooking oil
+68,03/07/2025,cooking oil
+68,13/08/2025,cooking oil
+68,15/09/2025,cooking oil
+68,20/09/2025,cooking oil
+68,05/04/2025,beans
+68,17/05/2025,beans
+68,27/06/2025,beans
+68,25/07/2025,beans
+68,30/07/2025,beans
+68,27/08/2025,beans
+69,10/03/2025,sausage
+69,30/03/2025,sausage
+69,03/05/2025,sausage
+69,12/05/2025,sausage
+69,29/05/2025,sausage
+69,09/06/2025,sausage
+69,09/03/2025,coffee
+69,07/04/2025,coffee
+69,18/05/2025,coffee
+69,01/07/2025,coffee
+69,09/07/2025,coffee
+69,24/07/2025,coffee
+69,24/04/2025,bread
+69,28/05/2025,bread
+69,03/07/2025,bread
+69,29/07/2025,bread
+69,04/08/2025,bread
+69,10/01/2025,detergent
+69,14/02/2025,detergent
+69,14/03/2025,detergent
+69,25/03/2025,detergent
+69,30/04/2025,detergent
+69,07/02/2025,toilet paper
+69,22/02/2025,toilet paper
+69,28/02/2025,toilet paper
+69,18/03/2025,toilet paper
+69,23/03/2025,toilet paper
+69,23/03/2025,whole milk
+69,07/04/2025,whole milk
+69,27/04/2025,whole milk
+69,23/05/2025,whole milk
+69,24/06/2025,whole milk
+70,28/02/2025,beans
+70,02/04/2025,beans
+70,12/05/2025,beans
+70,19/06/2025,beans
+70,14/07/2025,beans
+70,08/08/2025,beans
+70,27/06/2025,cookies
+70,05/07/2025,cookies
+70,26/07/2025,cookies
+70,30/07/2025,cookies
+70,26/08/2025,cookies
+70,01/09/2025,cookies
+70,21/02/2025,whole milk
+70,10/03/2025,whole milk
+70,26/03/2025,whole milk
+70,15/04/2025,whole milk
+70,29/05/2025,whole milk
+70,01/06/2025,pasta
+70,04/07/2025,pasta
+70,15/07/2025,pasta
+70,28/08/2025,pasta
+70,11/09/2025,pasta
+70,09/02/2025,toilet paper
+70,22/03/2025,toilet paper
+70,13/04/2025,toilet paper
+70,27/05/2025,toilet paper
+70,16/06/2025,toilet paper
+70,15/03/2025,bread
+70,03/04/2025,bread
+70,19/04/2025,bread
+70,21/05/2025,bread
+70,12/06/2025,bread
+70,18/07/2025,bread
+70,04/05/2025,cheese
+70,07/05/2025,cheese
+70,11/06/2025,cheese
+70,26/07/2025,cheese
+70,21/08/2025,cheese
+70,28/09/2025,cheese
+71,09/03/2025,cheese
+71,22/04/2025,cheese
+71,05/06/2025,cheese
+71,27/06/2025,cheese
+71,12/07/2025,cheese
+71,24/07/2025,cheese
+71,26/01/2025,cookies
+71,08/03/2025,cookies
+71,05/04/2025,cookies
+71,20/05/2025,cookies
+71,12/06/2025,cookies
+71,16/06/2025,sausage
+71,07/07/2025,sausage
+71,26/07/2025,sausage
+71,24/08/2025,sausage
+71,21/09/2025,sausage
+71,23/05/2025,bread
+71,01/07/2025,bread
+71,16/07/2025,bread
+71,09/08/2025,bread
+71,26/08/2025,bread
+71,12/06/2025,salt
+71,17/07/2025,salt
+71,08/08/2025,salt
+71,21/08/2025,salt
+71,05/10/2025,salt
+71,12/11/2025,salt
+71,16/01/2025,toilet paper
+71,27/01/2025,toilet paper
+71,15/02/2025,toilet paper
+71,25/03/2025,toilet paper
+71,08/04/2025,toilet paper
+71,02/05/2025,toilet paper
+71,12/02/2025,detergent
+71,01/03/2025,detergent
+71,23/03/2025,detergent
+71,21/04/2025,detergent
+71,15/05/2025,detergent
+72,07/04/2025,cheese
+72,12/05/2025,cheese
+72,22/05/2025,cheese
+72,18/06/2025,cheese
+72,24/07/2025,cheese
+72,28/01/2025,bread
+72,09/02/2025,bread
+72,20/02/2025,bread
+72,07/03/2025,bread
+72,31/03/2025,bread
+72,29/04/2025,bread
+72,11/02/2025,salt
+72,25/02/2025,salt
+72,05/03/2025,salt
+72,08/04/2025,salt
+72,02/05/2025,salt
+72,14/06/2025,salt
+72,02/06/2025,sausage
+72,05/06/2025,sausage
+72,06/07/2025,sausage
+72,26/07/2025,sausage
+72,11/08/2025,sausage
+72,24/08/2025,sausage
+72,26/04/2025,cooking oil
+72,04/05/2025,cooking oil
+72,15/05/2025,cooking oil
+72,26/06/2025,cooking oil
+72,26/07/2025,cooking oil
+72,14/04/2025,whole milk
+72,17/05/2025,whole milk
+72,13/06/2025,whole milk
+72,16/06/2025,whole milk
+72,21/06/2025,whole milk
+72,28/07/2025,whole milk
+72,11/01/2025,pasta
+72,16/02/2025,pasta
+72,03/03/2025,pasta
+72,07/03/2025,pasta
+72,10/03/2025,pasta
+72,22/04/2025,pasta
+73,03/02/2025,coffee
+73,08/02/2025,coffee
+73,02/03/2025,coffee
+73,23/03/2025,coffee
+73,24/04/2025,coffee
+73,30/05/2025,coffee
+73,22/04/2025,detergent
+73,03/05/2025,detergent
+73,27/05/2025,detergent
+73,30/06/2025,detergent
+73,25/07/2025,detergent
+73,09/08/2025,detergent
+73,08/01/2025,rice
+73,25/01/2025,rice
+73,05/02/2025,rice
+73,21/02/2025,rice
+73,25/02/2025,rice
+73,06/04/2025,rice
+73,12/01/2025,sausage
+73,25/02/2025,sausage
+73,02/03/2025,sausage
+73,29/03/2025,sausage
+73,11/05/2025,sausage
+73,02/05/2025,shampoo
+73,16/06/2025,shampoo
+73,25/06/2025,shampoo
+73,08/08/2025,shampoo
+73,12/08/2025,shampoo
+73,15/04/2025,eggs
+73,12/05/2025,eggs
+73,22/05/2025,eggs
+73,29/06/2025,eggs
+73,18/07/2025,eggs
+74,04/06/2025,shampoo
+74,19/07/2025,shampoo
+74,24/08/2025,shampoo
+74,13/09/2025,shampoo
+74,25/10/2025,shampoo
+74,05/12/2025,shampoo
+74,17/01/2025,coffee
+74,28/02/2025,coffee
+74,10/03/2025,coffee
+74,31/03/2025,coffee
+74,10/04/2025,coffee
+74,19/04/2025,coffee
+74,07/05/2025,cookies
+74,26/05/2025,cookies
+74,01/07/2025,cookies
+74,16/07/2025,cookies
+74,10/08/2025,cookies
+74,02/02/2025,salt
+74,12/03/2025,salt
+74,15/04/2025,salt
+74,01/05/2025,salt
+74,03/06/2025,salt
+74,27/06/2025,salt
+74,22/01/2025,whole milk
+74,30/01/2025,whole milk
+74,09/02/2025,whole milk
+74,20/03/2025,whole milk
+74,04/05/2025,whole milk
+74,25/01/2025,detergent
+74,01/03/2025,detergent
+74,08/03/2025,detergent
+74,17/03/2025,detergent
+74,05/04/2025,detergent
+75,28/01/2025,cooking oil
+75,18/02/2025,cooking oil
+75,16/03/2025,cooking oil
+75,08/04/2025,cooking oil
+75,08/05/2025,cooking oil
+75,01/01/2025,detergent
+75,12/01/2025,detergent
+75,26/02/2025,detergent
+75,11/04/2025,detergent
+75,24/04/2025,detergent
+75,20/04/2025,pasta
+75,10/05/2025,pasta
+75,18/05/2025,pasta
+75,13/06/2025,pasta
+75,07/07/2025,pasta
+75,21/07/2025,pasta
+75,15/04/2025,bread
+75,05/05/2025,bread
+75,01/06/2025,bread
+75,04/07/2025,bread
+75,02/08/2025,bread
+75,15/09/2025,bread
+75,23/02/2025,whole milk
+75,01/03/2025,whole milk
+75,14/03/2025,whole milk
+75,23/03/2025,whole milk
+75,21/04/2025,whole milk
+75,22/05/2025,sausage
+75,22/06/2025,sausage
+75,06/07/2025,sausage
+75,17/08/2025,sausage
+75,13/09/2025,sausage
+75,08/10/2025,sausage
+76,09/01/2025,detergent
+76,22/02/2025,detergent
+76,17/03/2025,detergent
+76,20/03/2025,detergent
+76,25/04/2025,detergent
+76,28/06/2025,bread
+76,22/07/2025,bread
+76,27/08/2025,bread
+76,02/10/2025,bread
+76,13/11/2025,bread
+76,24/06/2025,cooking oil
+76,12/07/2025,cooking oil
+76,14/08/2025,cooking oil
+76,08/09/2025,cooking oil
+76,23/10/2025,cooking oil
+76,06/12/2025,cooking oil
+76,20/05/2025,sausage
+76,26/05/2025,sausage
+76,29/05/2025,sausage
+76,12/07/2025,sausage
+76,25/07/2025,sausage
+76,28/04/2025,shampoo
+76,11/05/2025,shampoo
+76,18/05/2025,shampoo
+76,21/06/2025,shampoo
+76,14/07/2025,shampoo
+76,01/08/2025,shampoo
+76,17/01/2025,salt
+76,03/02/2025,salt
+76,13/03/2025,salt
+76,26/04/2025,salt
+76,23/05/2025,salt
+76,20/06/2025,salt
+77,11/04/2025,cooking oil
+77,21/04/2025,cooking oil
+77,25/05/2025,cooking oil
+77,08/07/2025,cooking oil
+77,12/07/2025,cooking oil
+77,21/07/2025,cooking oil
+77,18/01/2025,bread
+77,25/02/2025,bread
+77,28/02/2025,bread
+77,08/03/2025,bread
+77,18/04/2025,bread
+77,30/05/2025,bread
+77,18/05/2025,sugar
+77,03/06/2025,sugar
+77,17/07/2025,sugar
+77,31/08/2025,sugar
+77,02/10/2025,sugar
+77,26/10/2025,sugar
+77,28/02/2025,cheese
+77,01/04/2025,cheese
+77,25/04/2025,cheese
+77,02/06/2025,cheese
+77,14/07/2025,cheese
+77,22/06/2025,pasta
+77,18/07/2025,pasta
+77,18/08/2025,pasta
+77,28/08/2025,pasta
+77,06/09/2025,pasta
+77,21/10/2025,pasta
+77,12/03/2025,sausage
+77,24/04/2025,sausage
+77,15/05/2025,sausage
+77,22/06/2025,sausage
+77,28/07/2025,sausage
+78,20/03/2025,sausage
+78,04/04/2025,sausage
+78,19/04/2025,sausage
+78,29/04/2025,sausage
+78,27/05/2025,sausage
+78,23/02/2025,cooking oil
+78,19/03/2025,cooking oil
+78,28/03/2025,cooking oil
+78,26/04/2025,cooking oil
+78,01/05/2025,cooking oil
+78,13/06/2025,cooking oil
+78,15/04/2025,rice
+78,30/05/2025,rice
+78,09/07/2025,rice
+78,13/08/2025,rice
+78,24/08/2025,rice
+78,24/05/2025,bread
+78,30/05/2025,bread
+78,07/07/2025,bread
+78,06/08/2025,bread
+78,15/09/2025,bread
+78,19/06/2025,salt
+78,03/07/2025,salt
+78,14/07/2025,salt
+78,23/07/2025,salt
+78,19/08/2025,salt
+78,13/05/2025,shampoo
+78,11/06/2025,shampoo
+78,22/07/2025,shampoo
+78,09/08/2025,shampoo
+78,29/08/2025,shampoo
+78,26/09/2025,shampoo
+79,18/06/2025,cooking oil
+79,11/07/2025,cooking oil
+79,18/08/2025,cooking oil
+79,30/09/2025,cooking oil
+79,16/10/2025,cooking oil
+79,31/10/2025,cooking oil
+79,12/06/2025,sugar
+79,23/06/2025,sugar
+79,06/08/2025,sugar
+79,20/08/2025,sugar
+79,24/09/2025,sugar
+79,31/10/2025,sugar
+79,04/06/2025,rice
+79,29/06/2025,rice
+79,06/08/2025,rice
+79,08/09/2025,rice
+79,18/10/2025,rice
+79,26/11/2025,rice
+79,24/06/2025,salt
+79,31/07/2025,salt
+79,21/08/2025,salt
+79,20/09/2025,salt
+79,23/09/2025,salt
+79,29/10/2025,salt
+79,05/04/2025,shampoo
+79,11/04/2025,shampoo
+79,26/05/2025,shampoo
+79,01/06/2025,shampoo
+79,16/06/2025,shampoo
+79,22/03/2025,cheese
+79,10/04/2025,cheese
+79,22/04/2025,cheese
+79,28/04/2025,cheese
+79,19/05/2025,cheese
+79,27/03/2025,eggs
+79,27/04/2025,eggs
+79,06/05/2025,eggs
+79,17/06/2025,eggs
+79,25/07/2025,eggs
+80,14/04/2025,bread
+80,07/05/2025,bread
+80,14/06/2025,bread
+80,20/06/2025,bread
+80,23/06/2025,bread
+80,12/07/2025,bread
+80,21/02/2025,eggs
+80,06/04/2025,eggs
+80,02/05/2025,eggs
+80,11/06/2025,eggs
+80,18/07/2025,eggs
+80,28/08/2025,eggs
+80,15/03/2025,sugar
+80,29/03/2025,sugar
+80,05/04/2025,sugar
+80,19/04/2025,sugar
+80,03/05/2025,sugar
+80,02/04/2025,salt
+80,02/05/2025,salt
+80,22/05/2025,salt
+80,29/06/2025,salt
+80,18/07/2025,salt
+80,28/05/2025,coffee
+80,16/06/2025,coffee
+80,19/06/2025,coffee
+80,13/07/2025,coffee
+80,14/08/2025,coffee
+80,11/02/2025,detergent
+80,24/03/2025,detergent
+80,30/03/2025,detergent
+80,12/05/2025,detergent
+80,23/06/2025,detergent
+80,26/04/2025,whole milk
+80,04/06/2025,whole milk
+80,12/07/2025,whole milk
+80,06/08/2025,whole milk
+80,13/08/2025,whole milk
+80,05/09/2025,whole milk
+81,18/05/2025,toilet paper
+81,15/06/2025,toilet paper
+81,23/06/2025,toilet paper
+81,18/07/2025,toilet paper
+81,04/08/2025,toilet paper
+81,20/08/2025,toilet paper
+81,12/03/2025,eggs
+81,02/04/2025,eggs
+81,18/04/2025,eggs
+81,30/05/2025,eggs
+81,05/07/2025,eggs
+81,07/08/2025,eggs
+81,22/01/2025,sausage
+81,16/02/2025,sausage
+81,19/03/2025,sausage
+81,06/04/2025,sausage
+81,20/05/2025,sausage
+81,22/01/2025,sugar
+81,14/02/2025,sugar
+81,13/03/2025,sugar
+81,23/03/2025,sugar
+81,19/04/2025,sugar
+81,17/01/2025,cooking oil
+81,12/02/2025,cooking oil
+81,19/03/2025,cooking oil
+81,23/04/2025,cooking oil
+81,24/05/2025,cooking oil
+81,27/06/2025,cooking oil
+81,07/06/2025,rice
+81,30/06/2025,rice
+81,04/08/2025,rice
+81,12/08/2025,rice
+81,21/08/2025,rice
+81,03/09/2025,rice
+82,07/01/2025,rice
+82,13/02/2025,rice
+82,15/03/2025,rice
+82,28/04/2025,rice
+82,05/05/2025,rice
+82,17/05/2025,rice
+82,11/06/2025,beans
+82,16/06/2025,beans
+82,24/06/2025,beans
+82,01/07/2025,beans
+82,07/07/2025,beans
+82,21/07/2025,beans
+82,27/05/2025,cookies
+82,13/06/2025,cookies
+82,02/07/2025,cookies
+82,31/07/2025,cookies
+82,27/08/2025,cookies
+82,11/04/2025,salt
+82,15/04/2025,salt
+82,12/05/2025,salt
+82,22/05/2025,salt
+82,28/06/2025,salt
+82,01/07/2025,salt
+82,19/06/2025,cooking oil
+82,24/06/2025,cooking oil
+82,01/07/2025,cooking oil
+82,26/07/2025,cooking oil
+82,30/08/2025,cooking oil
+82,10/06/2025,sugar
+82,21/07/2025,sugar
+82,29/07/2025,sugar
+82,19/08/2025,sugar
+82,19/09/2025,sugar
+82,16/10/2025,sugar
+83,05/06/2025,pasta
+83,27/06/2025,pasta
+83,10/08/2025,pasta
+83,05/09/2025,pasta
+83,08/09/2025,pasta
+83,16/10/2025,pasta
+83,02/01/2025,rice
+83,05/01/2025,rice
+83,13/02/2025,rice
+83,26/03/2025,rice
+83,23/04/2025,rice
+83,07/03/2025,eggs
+83,01/04/2025,eggs
+83,17/04/2025,eggs
+83,16/05/2025,eggs
+83,29/06/2025,eggs
+83,06/02/2025,beans
+83,23/02/2025,beans
+83,06/04/2025,beans
+83,25/04/2025,beans
+83,10/05/2025,beans
+83,26/06/2025,cooking oil
+83,04/08/2025,cooking oil
+83,10/08/2025,cooking oil
+83,17/09/2025,cooking oil
+83,19/10/2025,cooking oil
+83,22/03/2025,shampoo
+83,29/03/2025,shampoo
+83,17/04/2025,shampoo
+83,26/04/2025,shampoo
+83,11/05/2025,shampoo
+84,03/05/2025,cookies
+84,18/05/2025,cookies
+84,10/06/2025,cookies
+84,14/07/2025,cookies
+84,14/08/2025,cookies
+84,07/09/2025,cookies
+84,19/06/2025,toilet paper
+84,01/07/2025,toilet paper
+84,09/08/2025,toilet paper
+84,17/09/2025,toilet paper
+84,13/10/2025,toilet paper
+84,05/11/2025,toilet paper
+84,11/01/2025,rice
+84,29/01/2025,rice
+84,15/02/2025,rice
+84,31/03/2025,rice
+84,30/04/2025,rice
+84,22/02/2025,pasta
+84,18/03/2025,pasta
+84,20/04/2025,pasta
+84,22/05/2025,pasta
+84,22/06/2025,pasta
+84,17/07/2025,pasta
+84,04/05/2025,sugar
+84,18/05/2025,sugar
+84,01/07/2025,sugar
+84,11/08/2025,sugar
+84,19/08/2025,sugar
+84,08/09/2025,sugar
+84,24/03/2025,beans
+84,06/05/2025,beans
+84,13/05/2025,beans
+84,20/05/2025,beans
+84,24/05/2025,beans
+84,19/05/2025,sausage
+84,16/06/2025,sausage
+84,26/07/2025,sausage
+84,11/08/2025,sausage
+84,16/08/2025,sausage
+85,15/02/2025,pasta
+85,22/03/2025,pasta
+85,26/04/2025,pasta
+85,04/05/2025,pasta
+85,01/06/2025,pasta
+85,27/06/2025,pasta
+85,08/06/2025,cookies
+85,20/07/2025,cookies
+85,02/08/2025,cookies
+85,06/09/2025,cookies
+85,17/09/2025,cookies
+85,19/02/2025,sugar
+85,30/03/2025,sugar
+85,14/05/2025,sugar
+85,26/05/2025,sugar
+85,28/06/2025,sugar
+85,25/02/2025,rice
+85,31/03/2025,rice
+85,17/04/2025,rice
+85,24/04/2025,rice
+85,13/05/2025,rice
+85,22/01/2025,toilet paper
+85,07/02/2025,toilet paper
+85,15/03/2025,toilet paper
+85,10/04/2025,toilet paper
+85,07/05/2025,toilet paper
+85,02/01/2025,shampoo
+85,15/02/2025,shampoo
+85,10/03/2025,shampoo
+85,19/03/2025,shampoo
+85,24/04/2025,shampoo
+85,06/06/2025,shampoo
+85,18/05/2025,beans
+85,26/06/2025,beans
+85,10/07/2025,beans
+85,06/08/2025,beans
+85,19/09/2025,beans
+85,16/10/2025,beans
+86,26/04/2025,eggs
+86,29/05/2025,eggs
+86,09/07/2025,eggs
+86,12/07/2025,eggs
+86,16/08/2025,eggs
+86,27/08/2025,eggs
+86,03/02/2025,shampoo
+86,10/03/2025,shampoo
+86,23/04/2025,shampoo
+86,13/05/2025,shampoo
+86,29/05/2025,shampoo
+86,12/02/2025,beans
+86,25/03/2025,beans
+86,04/04/2025,beans
+86,19/05/2025,beans
+86,05/06/2025,beans
+86,04/06/2025,pasta
+86,07/07/2025,pasta
+86,09/08/2025,pasta
+86,11/09/2025,pasta
+86,27/09/2025,pasta
+86,06/11/2025,pasta
+86,08/01/2025,cooking oil
+86,13/01/2025,cooking oil
+86,24/01/2025,cooking oil
+86,04/03/2025,cooking oil
+86,13/04/2025,cooking oil
+86,26/04/2025,cooking oil
+86,05/05/2025,toilet paper
+86,11/05/2025,toilet paper
+86,24/05/2025,toilet paper
+86,12/06/2025,toilet paper
+86,26/06/2025,toilet paper
+87,20/04/2025,whole milk
+87,23/05/2025,whole milk
+87,25/06/2025,whole milk
+87,08/07/2025,whole milk
+87,25/07/2025,whole milk
+87,27/05/2025,cooking oil
+87,10/06/2025,cooking oil
+87,22/07/2025,cooking oil
+87,05/09/2025,cooking oil
+87,10/10/2025,cooking oil
+87,22/06/2025,coffee
+87,16/07/2025,coffee
+87,17/08/2025,coffee
+87,27/09/2025,coffee
+87,06/11/2025,coffee
+87,13/04/2025,salt
+87,24/04/2025,salt
+87,03/05/2025,salt
+87,07/05/2025,salt
+87,22/05/2025,salt
+87,20/02/2025,cookies
+87,01/03/2025,cookies
+87,15/03/2025,cookies
+87,17/04/2025,cookies
+87,29/05/2025,cookies
+87,09/07/2025,cookies
+87,16/01/2025,detergent
+87,02/03/2025,detergent
+87,13/03/2025,detergent
+87,23/04/2025,detergent
+87,30/05/2025,detergent
+87,14/05/2025,sausage
+87,09/06/2025,sausage
+87,14/06/2025,sausage
+87,20/07/2025,sausage
+87,19/08/2025,sausage
+87,05/09/2025,sausage
+88,09/02/2025,coffee
+88,14/03/2025,coffee
+88,31/03/2025,coffee
+88,08/04/2025,coffee
+88,29/04/2025,coffee
+88,09/06/2025,coffee
+88,07/03/2025,cheese
+88,10/03/2025,cheese
+88,13/03/2025,cheese
+88,21/04/2025,cheese
+88,27/05/2025,cheese
+88,06/06/2025,cheese
+88,21/04/2025,sugar
+88,07/05/2025,sugar
+88,30/05/2025,sugar
+88,28/06/2025,sugar
+88,24/07/2025,sugar
+88,21/04/2025,pasta
+88,31/05/2025,pasta
+88,19/06/2025,pasta
+88,08/07/2025,pasta
+88,14/08/2025,pasta
+88,09/05/2025,salt
+88,06/06/2025,salt
+88,22/06/2025,salt
+88,21/07/2025,salt
+88,28/08/2025,salt
+88,05/10/2025,salt
+88,18/03/2025,cooking oil
+88,25/04/2025,cooking oil
+88,28/05/2025,cooking oil
+88,16/06/2025,cooking oil
+88,08/07/2025,cooking oil
+88,13/06/2025,sausage
+88,24/06/2025,sausage
+88,08/08/2025,sausage
+88,18/08/2025,sausage
+88,04/09/2025,sausage
+88,05/10/2025,sausage
+89,13/02/2025,shampoo
+89,28/03/2025,shampoo
+89,31/03/2025,shampoo
+89,08/04/2025,shampoo
+89,20/04/2025,shampoo
+89,03/01/2025,eggs
+89,22/01/2025,eggs
+89,08/02/2025,eggs
+89,06/03/2025,eggs
+89,14/03/2025,eggs
+89,24/04/2025,eggs
+89,20/04/2025,pasta
+89,03/06/2025,pasta
+89,09/07/2025,pasta
+89,30/07/2025,pasta
+89,09/09/2025,pasta
+89,15/09/2025,pasta
+89,01/04/2025,sugar
+89,16/04/2025,sugar
+89,31/05/2025,sugar
+89,06/07/2025,sugar
+89,27/07/2025,sugar
+89,11/08/2025,sugar
+89,06/05/2025,toilet paper
+89,11/05/2025,toilet paper
+89,06/06/2025,toilet paper
+89,24/06/2025,toilet paper
+89,07/08/2025,toilet paper
+89,09/01/2025,cooking oil
+89,06/02/2025,cooking oil
+89,03/03/2025,cooking oil
+89,17/04/2025,cooking oil
+89,15/05/2025,cooking oil
+90,27/06/2025,whole milk
+90,04/08/2025,whole milk
+90,13/09/2025,whole milk
+90,08/10/2025,whole milk
+90,02/11/2025,whole milk
+90,22/11/2025,whole milk
+90,13/04/2025,coffee
+90,22/05/2025,coffee
+90,25/05/2025,coffee
+90,13/06/2025,coffee
+90,27/06/2025,coffee
+90,03/05/2025,cooking oil
+90,07/06/2025,cooking oil
+90,28/06/2025,cooking oil
+90,22/07/2025,cooking oil
+90,01/08/2025,cooking oil
+90,27/05/2025,sausage
+90,05/07/2025,sausage
+90,24/07/2025,sausage
+90,24/08/2025,sausage
+90,20/09/2025,sausage
+90,29/10/2025,sausage
+90,25/03/2025,sugar
+90,26/04/2025,sugar
+90,28/05/2025,sugar
+90,07/07/2025,sugar
+90,11/07/2025,sugar
+90,03/03/2025,eggs
+90,30/03/2025,eggs
+90,12/05/2025,eggs
+90,29/05/2025,eggs
+90,15/06/2025,eggs
+91,13/01/2025,coffee
+91,06/02/2025,coffee
+91,13/02/2025,coffee
+91,23/03/2025,coffee
+91,06/04/2025,coffee
+91,09/05/2025,coffee
+91,19/02/2025,eggs
+91,11/03/2025,eggs
+91,25/03/2025,eggs
+91,09/04/2025,eggs
+91,13/05/2025,eggs
+91,28/05/2025,eggs
+91,07/03/2025,cooking oil
+91,24/03/2025,cooking oil
+91,08/04/2025,cooking oil
+91,26/04/2025,cooking oil
+91,07/06/2025,cooking oil
+91,04/01/2025,whole milk
+91,12/01/2025,whole milk
+91,26/02/2025,whole milk
+91,01/04/2025,whole milk
+91,13/05/2025,whole milk
+91,12/04/2025,pasta
+91,24/05/2025,pasta
+91,16/06/2025,pasta
+91,20/07/2025,pasta
+91,28/08/2025,pasta
+91,25/02/2025,detergent
+91,01/04/2025,detergent
+91,21/04/2025,detergent
+91,19/05/2025,detergent
+91,05/06/2025,detergent
+91,14/07/2025,detergent
+91,26/05/2025,beans
+91,25/06/2025,beans
+91,28/07/2025,beans
+91,03/09/2025,beans
+91,08/09/2025,beans
+92,23/03/2025,sugar
+92,26/03/2025,sugar
+92,29/03/2025,sugar
+92,14/04/2025,sugar
+92,11/05/2025,sugar
+92,20/06/2025,sugar
+92,20/03/2025,salt
+92,08/04/2025,salt
+92,22/04/2025,salt
+92,30/05/2025,salt
+92,18/06/2025,salt
+92,06/07/2025,salt
+92,11/05/2025,cookies
+92,06/06/2025,cookies
+92,20/06/2025,cookies
+92,24/07/2025,cookies
+92,23/08/2025,cookies
+92,08/09/2025,cookies
+92,28/03/2025,pasta
+92,25/04/2025,pasta
+92,15/05/2025,pasta
+92,15/06/2025,pasta
+92,29/06/2025,pasta
+92,07/08/2025,pasta
+92,24/01/2025,rice
+92,13/02/2025,rice
+92,03/03/2025,rice
+92,10/04/2025,rice
+92,10/05/2025,rice
+92,26/02/2025,bread
+92,10/03/2025,bread
+92,12/04/2025,bread
+92,15/04/2025,bread
+92,29/04/2025,bread
+92,28/02/2025,sausage
+92,12/04/2025,sausage
+92,18/05/2025,sausage
+92,24/06/2025,sausage
+92,17/07/2025,sausage
+92,20/08/2025,sausage
+93,27/04/2025,sausage
+93,09/06/2025,sausage
+93,18/06/2025,sausage
+93,19/07/2025,sausage
+93,12/08/2025,sausage
+93,31/08/2025,sausage
+93,18/05/2025,shampoo
+93,06/06/2025,shampoo
+93,01/07/2025,shampoo
+93,05/07/2025,shampoo
+93,03/08/2025,shampoo
+93,13/08/2025,shampoo
+93,19/05/2025,pasta
+93,02/07/2025,pasta
+93,15/08/2025,pasta
+93,21/09/2025,pasta
+93,05/10/2025,pasta
+93,22/03/2025,coffee
+93,26/04/2025,coffee
+93,30/05/2025,coffee
+93,30/06/2025,coffee
+93,08/07/2025,coffee
+93,04/08/2025,coffee
+93,21/04/2025,rice
+93,03/05/2025,rice
+93,16/05/2025,rice
+93,28/06/2025,rice
+93,22/07/2025,rice
+93,20/08/2025,rice
+93,03/01/2025,whole milk
+93,16/01/2025,whole milk
+93,09/02/2025,whole milk
+93,26/02/2025,whole milk
+93,21/03/2025,whole milk
+93,13/04/2025,whole milk
+93,09/06/2025,beans
+93,20/07/2025,beans
+93,02/09/2025,beans
+93,30/09/2025,beans
+93,20/10/2025,beans
+93,20/11/2025,beans
+94,06/02/2025,salt
+94,06/03/2025,salt
+94,15/03/2025,salt
+94,24/03/2025,salt
+94,31/03/2025,salt
+94,25/01/2025,rice
+94,22/02/2025,rice
+94,30/03/2025,rice
+94,07/04/2025,rice
+94,16/04/2025,rice
+94,21/01/2025,cooking oil
+94,17/02/2025,cooking oil
+94,11/03/2025,cooking oil
+94,28/03/2025,cooking oil
+94,15/04/2025,cooking oil
+94,05/06/2025,whole milk
+94,16/06/2025,whole milk
+94,22/07/2025,whole milk
+94,04/08/2025,whole milk
+94,08/08/2025,whole milk
+94,13/08/2025,whole milk
+94,28/03/2025,pasta
+94,30/04/2025,pasta
+94,01/06/2025,pasta
+94,08/07/2025,pasta
+94,28/07/2025,pasta
+94,04/09/2025,pasta
+94,18/06/2025,beans
+94,02/07/2025,beans
+94,11/08/2025,beans
+94,21/09/2025,beans
+94,23/10/2025,beans
+94,21/05/2025,detergent
+94,03/07/2025,detergent
+94,09/08/2025,detergent
+94,31/08/2025,detergent
+94,25/09/2025,detergent
+94,28/10/2025,detergent
+95,01/03/2025,rice
+95,04/03/2025,rice
+95,09/04/2025,rice
+95,20/04/2025,rice
+95,15/05/2025,rice
+95,01/05/2025,bread
+95,04/06/2025,bread
+95,07/07/2025,bread
+95,29/07/2025,bread
+95,01/08/2025,bread
+95,31/08/2025,bread
+95,18/01/2025,detergent
+95,13/02/2025,detergent
+95,28/02/2025,detergent
+95,29/03/2025,detergent
+95,06/05/2025,detergent
+95,06/02/2025,toilet paper
+95,22/03/2025,toilet paper
+95,18/04/2025,toilet paper
+95,15/05/2025,toilet paper
+95,01/06/2025,toilet paper
+95,20/06/2025,toilet paper
+95,08/06/2025,shampoo
+95,14/07/2025,shampoo
+95,25/08/2025,shampoo
+95,14/09/2025,shampoo
+95,05/10/2025,shampoo
+95,18/11/2025,shampoo
+95,07/04/2025,salt
+95,14/04/2025,salt
+95,28/04/2025,salt
+95,09/05/2025,salt
+95,30/05/2025,salt
+95,09/06/2025,salt
+96,02/02/2025,cooking oil
+96,11/03/2025,cooking oil
+96,15/03/2025,cooking oil
+96,29/03/2025,cooking oil
+96,07/04/2025,cooking oil
+96,23/02/2025,detergent
+96,26/03/2025,detergent
+96,29/03/2025,detergent
+96,15/04/2025,detergent
+96,23/04/2025,detergent
+96,05/05/2025,detergent
+96,11/02/2025,coffee
+96,12/03/2025,coffee
+96,03/04/2025,coffee
+96,07/05/2025,coffee
+96,02/06/2025,coffee
+96,04/07/2025,coffee
+96,27/01/2025,cheese
+96,08/02/2025,cheese
+96,14/02/2025,cheese
+96,06/03/2025,cheese
+96,03/04/2025,cheese
+96,10/04/2025,cheese
+96,07/02/2025,bread
+96,26/02/2025,bread
+96,25/03/2025,bread
+96,28/03/2025,bread
+96,07/04/2025,bread
+96,25/04/2025,bread
+96,24/02/2025,beans
+96,01/03/2025,beans
+96,16/03/2025,beans
+96,17/04/2025,beans
+96,26/04/2025,beans
+96,01/06/2025,beans
+96,13/04/2025,toilet paper
+96,05/05/2025,toilet paper
+96,28/05/2025,toilet paper
+96,10/06/2025,toilet paper
+96,23/07/2025,toilet paper
+97,07/06/2025,eggs
+97,17/06/2025,eggs
+97,05/07/2025,eggs
+97,17/08/2025,eggs
+97,16/09/2025,eggs
+97,26/02/2025,bread
+97,18/03/2025,bread
+97,27/04/2025,bread
+97,07/05/2025,bread
+97,04/06/2025,bread
+97,19/01/2025,cookies
+97,21/02/2025,cookies
+97,03/04/2025,cookies
+97,15/04/2025,cookies
+97,11/05/2025,cookies
+97,16/02/2025,detergent
+97,24/02/2025,detergent
+97,07/04/2025,detergent
+97,01/05/2025,detergent
+97,13/06/2025,detergent
+97,21/03/2025,beans
+97,02/04/2025,beans
+97,09/05/2025,beans
+97,18/05/2025,beans
+97,29/05/2025,beans
+97,18/03/2025,toilet paper
+97,01/05/2025,toilet paper
+97,26/05/2025,toilet paper
+97,26/06/2025,toilet paper
+97,11/07/2025,toilet paper
+98,23/05/2025,coffee
+98,26/06/2025,coffee
+98,11/07/2025,coffee
+98,19/08/2025,coffee
+98,02/09/2025,coffee
+98,09/10/2025,coffee
+98,15/06/2025,pasta
+98,05/07/2025,pasta
+98,15/08/2025,pasta
+98,22/09/2025,pasta
+98,05/10/2025,pasta
+98,12/10/2025,pasta
+98,10/04/2025,rice
+98,29/04/2025,rice
+98,05/06/2025,rice
+98,01/07/2025,rice
+98,02/08/2025,rice
+98,06/06/2025,detergent
+98,10/06/2025,detergent
+98,22/07/2025,detergent
+98,17/08/2025,detergent
+98,28/09/2025,detergent
+98,16/10/2025,detergent
+98,18/06/2025,whole milk
+98,15/07/2025,whole milk
+98,30/07/2025,whole milk
+98,04/09/2025,whole milk
+98,08/10/2025,whole milk
+98,10/05/2025,bread
+98,02/06/2025,bread
+98,01/07/2025,bread
+98,14/08/2025,bread
+98,06/09/2025,bread
+98,22/05/2025,cookies
+98,29/05/2025,cookies
+98,03/06/2025,cookies
+98,14/06/2025,cookies
+98,28/06/2025,cookies
+99,16/06/2025,beans
+99,22/07/2025,beans
+99,02/09/2025,beans
+99,12/10/2025,beans
+99,31/10/2025,beans
+99,06/11/2025,beans
+99,23/05/2025,bread
+99,30/05/2025,bread
+99,02/06/2025,bread
+99,18/06/2025,bread
+99,01/08/2025,bread
+99,26/04/2025,pasta
+99,08/06/2025,pasta
+99,14/06/2025,pasta
+99,10/07/2025,pasta
+99,17/08/2025,pasta
+99,02/06/2025,sausage
+99,14/07/2025,sausage
+99,03/08/2025,sausage
+99,08/09/2025,sausage
+99,13/09/2025,sausage
+99,20/09/2025,sausage
+99,17/02/2025,whole milk
+99,26/02/2025,whole milk
+99,07/03/2025,whole milk
+99,24/03/2025,whole milk
+99,30/04/2025,whole milk
+99,17/02/2025,cheese
+99,03/04/2025,cheese
+99,21/04/2025,cheese
+99,30/05/2025,cheese
+99,12/07/2025,cheese
+100,06/01/2025,beans
+100,20/01/2025,beans
+100,27/02/2025,beans
+100,27/03/2025,beans
+100,01/05/2025,beans
+100,25/05/2025,beans
+100,20/05/2025,sugar
+100,20/06/2025,sugar
+100,15/07/2025,sugar
+100,07/08/2025,sugar
+100,14/09/2025,sugar
+100,25/04/2025,cookies
+100,07/06/2025,cookies
+100,07/07/2025,cookies
+100,30/07/2025,cookies
+100,09/09/2025,cookies
+100,27/09/2025,cookies
+100,25/04/2025,cheese
+100,02/06/2025,cheese
+100,21/06/2025,cheese
+100,17/07/2025,cheese
+100,17/08/2025,cheese
+100,24/01/2025,toilet paper
+100,29/01/2025,toilet paper
+100,19/02/2025,toilet paper
+100,01/04/2025,toilet paper
+100,05/04/2025,toilet paper
+100,11/05/2025,toilet paper
+100,10/01/2025,salt
+100,27/01/2025,salt
+100,12/02/2025,salt
+100,07/03/2025,salt
+100,11/03/2025,salt
+100,31/03/2025,salt
+100,02/01/2025,bread
+100,03/02/2025,bread
+100,28/02/2025,bread
+100,12/03/2025,bread
+100,23/03/2025,bread

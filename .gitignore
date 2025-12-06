@@ -1,0 +1,87 @@
+# Build outputs
+bin/
+obj/
+out/
+
+# MVC / Razor / tooling caches
+*.dotCover
+*.dotTrace
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+project.lock.json
+project.fragment.lock.json
+
+# Entity Framework / Local DB / SQLite
+*.db
+*.mdf
+*.ldf
+*.sqlite
+
+# User-specific appsettings (development secrets)
+appsettings.*.Development.json
+secrets.json
+local.settings.json
+.env
+.env.local
+.env.*.local
+
+# Logs and temporary files
+*.log
+logs/
+TestResults/
+*.trx
+*.coverage
+coverage/
+
+# Rider / ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# Certificate files
+*.pfx
+*.key
+*.cer
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Docker overrides (usually local)
+docker-compose.override.yml
+
+# Generated files
+Generated/
+**/Generated/
+
+# Temporary/editor swap files
+*~
+*.swp
+*.tmp
+*.bak
+
+# Ignore paket files if present
+.paket/
+
+# Ignore compiled python/JS packages if present
+node_modules/
+dist/
+build/
