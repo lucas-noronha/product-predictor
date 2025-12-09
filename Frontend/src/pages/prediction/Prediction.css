@@ -1,0 +1,114 @@
+.predictions-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 24px 16px 40px;
+}
+
+.predictions-title {
+  font-size: 1.8rem;
+  margin-bottom: 4px;
+}
+
+.predictions-subtitle {
+  font-size: 0.95rem;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.predictions-info {
+  font-size: 0.95rem;
+  color: #555;
+}
+
+.predictions-error {
+  color: #c53030;
+  background-color: #fed7d7;
+  border: 1px solid #feb2b2;
+  padding: 8px 12px;
+  border-radius: 4px;
+  font-size: 0.95rem;
+}
+
+.predictions-empty {
+  font-size: 0.95rem;
+  color: #666;
+  margin-top: 12px;
+}
+
+.predictions-list {
+  list-style: none;
+  padding: 0;
+  margin: 16px 0 0;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.prediction-card {
+  border-radius: 8px;
+  border: 1px solid #e2e8f0;
+  padding: 12px 14px;
+  background-color: #fff;
+  box-shadow: 0 1px 3px rgba(15, 23, 42, 0.06);
+}
+
+.prediction-card-highlight {
+  border-color: #4c6fff;
+  box-shadow: 0 0 0 1px rgba(76, 111, 255, 0.15);
+}
+
+.prediction-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 6px;
+}
+
+.prediction-item {
+  font-weight: 600;
+  font-size: 1rem;
+  color: #1f2933;
+}
+
+.prediction-date-tag {
+  font-size: 0.8rem;
+  color: #2b6cb0;
+  background-color: #ebf8ff;
+  padding: 2px 8px;
+  border-radius: 999px;
+}
+
+.prediction-message {
+  font-size: 0.95rem;
+  margin: 4px 0 2px;
+  color: #2d3748;
+}
+
+.prediction-note {
+  font-size: 0.8rem;
+  color: #718096;
+  margin: 0;
+}
+
+.prediction-subtle {
+  font-size: 0.85rem;
+  color: #a0aec0;
+  margin: 4px 0 0;
+}
+
+@media (max-width: 600px) {
+  .predictions-container {
+    padding: 16px 12px 32px;
+  }
+
+  .prediction-card {
+    padding: 10px 12px;
+  }
+
+  .prediction-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
