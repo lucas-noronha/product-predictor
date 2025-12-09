@@ -2,7 +2,7 @@
 import { useEffect, useState } from "react";
 import { Routes, Route, Navigate, useNavigate } from "react-router-dom";
 import Navbar from "./components/Navbar";
-import LoginPage from "./pages/login/login";
+import LoginPage from "./pages/login/Login";
 import ShoppingListsPage from "./pages/shoppinglists/ShoppingLists";
 import ShoppingListDetailsPage from "./pages/shoppinglists-details/ShoppingListDetails";
 import RegisterPage from "./pages/register/Register";

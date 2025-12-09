@@ -22,9 +22,10 @@ services:
 
   api:
     build:
-      context: .
+      context: ./API
       dockerfile: ProductPrediction.API/Dockerfile
     container_name: productprediction-api
+    restart: always
     depends_on:
       db:
         condition: service_healthy
@@ -33,6 +34,20 @@ services:
       ConnectionStrings__Default: "Host=db;Port=5432;Database=productprediction;Username=appuser;Password=appsecret"
     ports:
       - "8080:8080"
+
+  frontend:
+    build:
+      context: ./frontend            # ajuste se o nome da pasta for outro
+      dockerfile: Dockerfile
+      args:
+        VITE_API_URL: "http://localhost:8080"   # URL interna da API (nome do serviço)
+    container_name: productprediction-front
+    restart: always
+    depends_on:
+      api:
+        condition: service_started
+    ports:
+      - "5173:80"                    # acessa em http://localhost:5173
 
 volumes:
   postgres_data:

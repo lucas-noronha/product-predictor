@@ -3,7 +3,7 @@ import "./Login.css";
 import { Link } from "react-router-dom";
 import api from "../../services/api";
 
-export default function LoginPage({ onLoginSuccess, goToRegister }) {
+export default function LoginPage({ onLoginSuccess }) {
   const [email, setEmail] = useState("");
   const [name, setName] = useState("");
   const [loading, setLoading] = useState(false);
