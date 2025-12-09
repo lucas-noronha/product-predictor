@@ -26,7 +26,7 @@ Antes de rodar o projeto, você precisa ter instalado:
 ### 1. Subir os containers
 
 ```bash
-docker compose up -d
+docker compose up --build -d
 ```
 
 ### 2. Verificar containers
