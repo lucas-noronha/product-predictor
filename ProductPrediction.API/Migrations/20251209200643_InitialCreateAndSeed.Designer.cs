@@ -12,8 +12,8 @@ using ProductPrediction.API.Infrastructure;
 namespace ProductPrediction.API.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20251201050829_Adds_title_to_shoppinglist")]
-    partial class Adds_title_to_shoppinglist
+    [Migration("20251209200643_InitialCreateAndSeed")]
+    partial class InitialCreateAndSeed
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
